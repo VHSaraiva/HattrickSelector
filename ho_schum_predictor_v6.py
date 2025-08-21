@@ -1,12 +1,11 @@
-# nt_selector_formations.py
-# Load NT_Prospects.csv → rate EVERY player in EVERY role (GK, CD, RB, LB, IM, RW, LW, FW)
-# using the HO "Java" engine, then pick an XI for a chosen formation.
-# Formation can be a preset (3-5-2, 4-4-2, 3-4-3, etc.) OR a manual custom layout.
+# nt_selector_formations_with_foxtrick.py
+# Best XI (HO!/Java engine) + Foxtrick-style "Top 10 contributors" per role
+# Upload NT_Prospects.csv (no Position needed). Everyone is rated for each role.
 
 from __future__ import annotations
-import math, json
+import math
 from dataclasses import dataclass
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Optional
 
 import numpy as np
 import pandas as pd
@@ -33,6 +32,7 @@ class Player:
     Stamina: float = 7.0
     Loyalty: float = 0.0
     HomeGrown: int = 0
+    Age: float | None = None  # optional, used only for filters
 
 CSV_COL_MAP = {
     "Name":"Name","Player":"Name",
@@ -54,48 +54,24 @@ CSV_COL_MAP = {
 }
 
 def _f(x, d=0.0):
-    try:
-        return float(x)
-    except Exception:
+    try: return float(x)
+    except: 
         try:
-            return float(str(x).strip())
-        except Exception:
+            s = str(x).strip()
+            return float(s) if s else d
+        except:
             return d
 
-def _normalize_df(file) -> pd.DataFrame:
+def load_players_from_csv(file) -> List[Player]:
     df = pd.read_csv(file)
     df = df.rename(columns={c: CSV_COL_MAP.get(c, c) for c in df.columns})
-    return df
-
-def _apply_filters_df(df: pd.DataFrame, min_exp: float, min_age: int | None,
-                      min_sta: int, min_form: int) -> pd.DataFrame:
-    out = df.copy()
-
-    # Experience (blanks → 0)
-    if "Experience" in out.columns:
-        out["__exp_num"] = out["Experience"].apply(_f)
-        out = out[out["__exp_num"] >= float(min_exp)]
-        out = out.drop(columns="__exp_num")
-
-    # Age (only if column exists) — MIN AGE
-    if min_age is not None and "Age" in out.columns:
-        out["__age_num"] = pd.to_numeric(out["Age"], errors="coerce")
-        out = out[out["__age_num"] >= min_age]
-        out = out.drop(columns="__age_num")
-
-    # Stamina
-    if "Stamina" in out.columns:
-        out = out[pd.to_numeric(out["Stamina"], errors="coerce").fillna(0) >= min_sta]
-
-    # Form
-    if "Form" in out.columns:
-        out = out[pd.to_numeric(out["Form"], errors="coerce").fillna(0) >= min_form]
-
-    return out
-
-def _players_from_df(df: pd.DataFrame) -> List[Player]:
     out: List[Player] = []
     for _, r in df.iterrows():
+        age_val = r.get("Age", None)
+        try:
+            age = float(age_val) if age_val is not None and str(age_val).strip() != "" else None
+        except:
+            age = None
         out.append(Player(
             Name=str(r.get("Name","")),
             Behaviour=str(r.get("Behaviour","Normal")),
@@ -112,11 +88,12 @@ def _players_from_df(df: pd.DataFrame) -> List[Player]:
             Stamina=_f(r.get("Stamina",7)),
             Loyalty=_f(r.get("Loyalty",0)),
             HomeGrown=int(r.get("HomeGrown",0) or 0),
+            Age=age,
         ))
     return out
 
 # =========================
-# Core maths (HO!/Java model)
+# Core maths (HO!/Java model) – for Best XI
 # =========================
 
 NORMAL, OFFENSIVE, DEFENSIVE, TOWARDS_MIDDLE, TOWARDS_WING = \
@@ -260,7 +237,6 @@ def java_entries():
     return E
 
 GROUP_TO_SECTORS = {"SD":("DL","DR"),"CD":("DC",),"MF":("MF",),"SA":("AL","AR"),"CA":("AC",)}
-
 ROLE_DEF = {
     "CD": ("CD","M","DC"),
     "RB": ("WB","R","DR"),
@@ -318,7 +294,7 @@ def player_sector_bar_single(p: Player, test_role: str, test_side: str, target_k
     return to_ht_bar(target_key, psum)
 
 # =========================
-# Hungarian (maximize)
+# Hungarian (maximize) – for Best XI assignment
 # =========================
 
 def hungarian_maximize(score_matrix: np.ndarray):
@@ -361,7 +337,157 @@ def hungarian_maximize(score_matrix: np.ndarray):
     return chosen_rows.tolist(), total
 
 # =========================
-# Streamlit UI
+# Foxtrick-style effective skills & contributions (new)
+# =========================
+
+def ft_loyalty_bonus(loyalty: Optional[float], is_mother_club: bool) -> float:
+    if is_mother_club:
+        return 1.5
+    if loyalty is None:
+        return 0.0
+    return max(0.0, loyalty - 1.0) / 19.0
+
+def ft_average_energy_90(stamina_level: float) -> float:
+    # stamina is 1-based float (HT stamina 1..10)
+    s = float(stamina_level)
+    if s >= 8.63:
+        return 1.0
+    total = 0.0
+    initial = 1.0 + (0.0292 * s + 0.05)
+    if s > 8:
+        initial += 0.15 * (s - 8)
+    decay = max(0.0325, -0.0039 * s + 0.0634)
+    rest = 0.1875
+    for chk in range(1, 19):  # 18 checkpoints
+        cur = initial - chk * decay
+        if chk > 9:
+            cur += rest
+        cur = min(1.0, cur)
+        total += cur
+    return total / 18.0
+
+def ft_effective_skills(p: Player, use_exp: bool, use_loy: bool, use_sta: bool, use_form: bool, bruised: bool) -> Dict[str, float]:
+    eff = {
+        "keeper": float(p.KeeperSkill),
+        "defending": float(p.DefenderSkill),
+        "playmaking": float(p.PlaymakerSkill),
+        "winger": float(p.WingerSkill),
+        "passing": float(p.PassingSkill),
+        "scoring": float(p.ScorerSkill),
+    }
+    # Experience bonus: log10(exp)*4/3 to all skills (if exp>0)
+    if use_exp:
+        try:
+            ex = float(p.Experience)
+            if ex > 0:
+                bonus = math.log10(ex) * 4.0 / 3.0
+                for k in eff:
+                    eff[k] += bonus
+        except:
+            pass
+    # Loyalty
+    if use_loy:
+        bonus = ft_loyalty_bonus(p.Loyalty, bool(p.HomeGrown))
+        for k in eff:
+            eff[k] += bonus
+    # Stamina -> energy multiplier
+    if use_sta:
+        e = ft_average_energy_90(float(p.Stamina))
+        for k in eff:
+            eff[k] *= e
+    # Form multiplier (index 0..8). Clamp range.
+    if use_form:
+        form_infls = [0, 0.305, 0.5, 0.629, 0.732, 0.82, 0.897, 0.967, 1]
+        idx = int(round(float(p.Form)))
+        idx = max(0, min(8, idx))
+        factor = form_infls[idx]
+        for k in eff:
+            eff[k] *= factor
+    # Bruised penalty
+    if bruised:
+        for k in eff:
+            eff[k] *= 0.95
+    return eff
+
+def ft_contribution_factors(
+    CTR_VS_WG=1.4, WBD_VS_CD=1.7, WO_VS_FW=1.3, IM_VS_CD=0.6, MF_VS_ATT=3.0, DF_VS_ATT=1.1
+):
+    factors = {
+        "kp": {
+            "keeper":   [0.87, 0.61, 0.61],
+            "defending":[0.35, 0.25, 0.25],
+        },
+        "cd": {
+            "defending":[1.00, 0.26, 0.26],
+            "playmaking":0.25,
+        },
+        "wb": {
+            "defending":[0.38, 0.92],
+            "playmaking":0.15,
+            "winger":   [0.00, 0.59],
+        },
+        "im": {
+            "defending":[0.40, 0.09, 0.09],
+            "playmaking":1.00,
+            "passing":  [0.33, 0.13, 0.13],
+            "scoring":  [0.22, 0.00],
+        },
+        "w": {
+            "defending":[0.20, 0.35],
+            "playmaking":0.45,
+            "passing": [0.11, 0.26],
+            "winger":  [0.00, 0.86],
+        },
+        "fw": {
+            "playmaking":0.25,
+            "passing": [0.33, 0.14, 0.14],
+            "scoring": [1.00, 0.27, 0.27],
+            "winger":  [0.00, 0.24, 0.24],
+        },
+    }
+
+    def mk(skill, contr):
+        is_def = (skill in ("defending", "keeper"))
+        if isinstance(contr, list):
+            center = float(contr[0])
+            side   = float(contr[1]) if len(contr) > 1 else 0.0
+            fars   = float(contr[2]) if len(contr) > 2 else 0.0
+            side  *= (WBD_VS_CD if is_def else WO_VS_FW)
+            fars  *= (WBD_VS_CD if is_def else WO_VS_FW)
+            wings  = side + fars
+            factor = (center + wings / CTR_VS_WG) / (1.0 + 2.0 / CTR_VS_WG)
+            if is_def:
+                factor *= DF_VS_ATT
+            return {"center":center, "side":side, "farSide":fars, "wings":wings, "factor":factor}
+        else:
+            center = float(contr) * IM_VS_CD
+            factor = center * MF_VS_ATT
+            return {"center":center, "side":0.0, "farSide":0.0, "wings":0.0, "factor":factor}
+
+    ret = {}
+    for pos, skills in factors.items():
+        ret[pos] = {skill: mk(skill, contr) for skill, contr in skills.items()}
+    return ret
+
+def ft_role_score(player: Player, pos_code: str,
+                  use_exp: bool, use_loy: bool, use_sta: bool, use_form: bool, bruised: bool,
+                  params=None) -> tuple[float, dict]:
+    if params is None:
+        params = dict(CTR_VS_WG=1.4, WBD_VS_CD=1.7, WO_VS_FW=1.3, IM_VS_CD=0.6, MF_VS_ATT=3.0, DF_VS_ATT=1.1)
+    table = ft_contribution_factors(**params)
+    eff = ft_effective_skills(player, use_exp, use_loy, use_sta, use_form, bruised)
+    total = 0.0
+    breakdown = {}
+    for skill, desc in table[pos_code].items():
+        key = "keeper" if skill == "keeper" else skill
+        val = eff[key]
+        part = val * desc["factor"]
+        breakdown[skill] = part
+        total += part
+    return total, breakdown
+
+# =========================
+# UI
 # =========================
 
 PRESETS = {
@@ -373,15 +499,15 @@ PRESETS = {
     "4-2-3-1":["GK","CD","CD","RB","LB","IM","IM","RW","LW","FW","FW"],
 }
 
-st.set_page_config(page_title="NT Selector – Flexible Formations", layout="wide")
-st.title("NT Selector – Best XI (Flexible formations)")
+st.set_page_config(page_title="NT Selector – Best XI + Foxtrick Top 10", layout="wide")
+st.title("NT Selector – Best XI (HO) + Top 10 (Foxtrick)")
 
 with st.sidebar:
     st.subheader("1) Upload NT_Prospects.csv")
     up = st.file_uploader("CSV", type=["csv"])
     st.caption("No Position needed; everyone is rated for each role.")
 
-    st.subheader("2) Match context")
+    st.subheader("2) Match context (HO engine)")
     location = st.selectbox("Location", ["HOME","AWAY","AWAY_DERBY"], 0)
     attitude = st.selectbox("Attitude", ["NORMAL","PIC","MOTS"], 0)
     tactic = st.selectbox("Tactic", ["None","AttackInTheMiddle","AttackInWings","PlayCreatively","CounterAttacks","LongShots","Pressing"], 0)
@@ -392,12 +518,12 @@ with st.sidebar:
     minute = st.slider("Minute", 0, 90, 45, step=5)
     gk_min = st.slider("GK min goalkeeping", 0, 20, 14)
 
-    # -------- FILTERS (with MIN AGE) ----------
     st.subheader("3) Filters")
-    min_exp = st.number_input("Min Experience", min_value=0, max_value=20, value=0, step=1)
-    min_age = st.number_input("Min Age (if present in CSV)", min_value=14, max_value=60, value=15, step=1)
-    min_sta = st.number_input("Min Stamina", min_value=1, max_value=10, value=1, step=1)
-    min_form = st.number_input("Min Form", min_value=1, max_value=10, value=1, step=1)
+    # Min filters (>=)
+    min_age = st.number_input("Min Age (≥)", 0, 60, 0)
+    min_form = st.slider("Min Form (≥)", 1, 8, 1)
+    min_stamina = st.slider("Min Stamina (≥)", 1, 10, 1)
+    min_xp = st.slider("Min Experience (≥)", 0, 20, 0)
 
     st.subheader("4) Formation")
     mode = st.radio("Mode", ["Presets","Custom"], index=0)
@@ -418,22 +544,51 @@ with st.sidebar:
         roles = ["GK"] + ["CD"]*n_cd + ["RB"]*n_rb + ["LB"]*n_lb + \
                 ["IM"]*n_im + ["RW"]*n_rw + ["LW"]*n_lw + ["FW"]*n_fw
 
+    st.subheader("5) Foxtrick options")
+    use_exp = st.checkbox("Use Experience bonus", value=True)
+    use_loy = st.checkbox("Use Loyalty bonus", value=True)
+    use_sta = st.checkbox("Use Stamina energy factor", value=True)
+    use_form = st.checkbox("Use Form multiplier", value=True)
+    use_bruised = st.checkbox("Bruised penalty (−5%)", value=False)
+
+    st.caption("Foxtrick parameters")
+    CTR_VS_WG = st.number_input("CTR_VS_WG", value=1.4, step=0.1, format="%.2f")
+    WBD_VS_CD = st.number_input("WBD_VS_CD", value=1.7, step=0.1, format="%.2f")
+    WO_VS_FW = st.number_input("WO_VS_FW", value=1.3, step=0.1, format="%.2f")
+    IM_VS_CD = st.number_input("IM_VS_CD", value=0.6, step=0.05, format="%.2f")
+    MF_VS_ATT = st.number_input("MF_VS_ATT", value=3.0, step=0.1, format="%.2f")
+    DF_VS_ATT = st.number_input("DF_VS_ATT", value=1.1, step=0.1, format="%.2f")
+    ft_params = dict(
+        CTR_VS_WG=CTR_VS_WG, WBD_VS_CD=WBD_VS_CD, WO_VS_FW=WO_VS_FW,
+        IM_VS_CD=IM_VS_CD, MF_VS_ATT=MF_VS_ATT, DF_VS_ATT=DF_VS_ATT
+    )
+
 if up is None:
     st.info("Upload NT_Prospects.csv to start.")
     st.stop()
 
-# Normalize + APPLY FILTERS, then create Player objects
-_df_norm = _normalize_df(up)
-_df_filt = _apply_filters_df(_df_norm, min_exp=min_exp, min_age=min_age, min_sta=min_sta, min_form=min_form)
-players = _players_from_df(_df_filt)
+players_all = load_players_from_csv(up)
 
-if not players:
-    st.error("No players available after filters.")
-    st.stop()
+# Apply filters
+players: List[Player] = []
+for p in players_all:
+    age_ok = (p.Age is None) or (p.Age >= min_age)
+    if not age_ok: continue
+    if p.Form < min_form: continue
+    if p.Stamina < min_stamina: continue
+    try:
+        xp_val = float(p.Experience)
+    except:
+        try: xp_val = float(str(p.Experience).strip())
+        except: xp_val = 0.0
+    if xp_val < min_xp: continue
+    players.append(p)
+
+st.caption(f"Filtered players: **{len(players)}/{len(players_all)}**")
 
 # Validate formation
 if roles[0] != "GK":
-    roles = ["GK"] + roles
+    roles = ["GK"] + roles  # safety
 if len(roles) != 11:
     st.error("Your formation must have 11 players (1 GK + 10 outfielders).")
     st.stop()
@@ -464,7 +619,7 @@ chosen_gk = int(gk_df.iloc[0]["player_idx"]) if "GK" in roles and not gk_df.empt
 # Field roles (everything except GK)
 field_roles = [r for r in role_instances if r != "GK"]
 
-# Score matrix players x roles
+# Score matrix players x roles (HO engine)
 score_cols = []
 for r in field_roles:
     base = r.rstrip("0123456789")
@@ -482,7 +637,7 @@ for i, p in enumerate(players):
 
 assign_rows, total = hungarian_maximize(M)
 
-# Build XI
+# Build XI table
 xi_rows = []
 if "GK" in roles:
     if chosen_gk is None:
@@ -525,7 +680,7 @@ for base in present_bases:
         if cnt>=5: break
 bench_df = pd.DataFrame(bench_rows, columns=["Role","Player","Score"])
 
-# Scouting table (all roles)
+# Scouting (HO role scores)
 scout = {"Name":[p.Name for p in players]}
 for base,(tr,side,tgt) in ROLE_DEF.items():
     scout[base] = [player_sector_bar_single(p,tr,side,tgt,minute,tactic,weather,attitude,location,coach,ts,conf)
@@ -533,27 +688,87 @@ for base,(tr,side,tgt) in ROLE_DEF.items():
 scout_df = pd.DataFrame(scout).sort_values("Name")
 
 # =========================
-# Display
+# Tabs: Best XI (HO), Foxtrick Top10, Scouting
 # =========================
 
-title = next((k for k,v in PRESETS.items() if v == roles), None) if mode=="Presets" else "Custom"
-st.subheader(f"Best XI – {title}")
-st.dataframe(xi_df, use_container_width=True)
+tab_ho, tab_ft, tab_scout = st.tabs(["Best XI (HO)", "Foxtrick: Top 10 contributors", "Scouting (HO roles)"])
 
-c1, c2 = st.columns(2)
-with c1:
-    st.subheader("Bench suggestions")
-    st.dataframe(bench_df, use_container_width=True)
-with c2:
-    st.subheader("GK candidates (≥ threshold)")
-    if not gk_df.empty:
-        st.dataframe(gk_df.drop(columns=["player_idx"]), use_container_width=True)
-    else:
-        st.info("No GK meets threshold.")
+with tab_ho:
+    title = next((k for k,v in PRESETS.items() if v == roles), None) if mode=="Presets" else "Custom"
+    st.subheader(f"Best XI – {title}")
+    st.dataframe(xi_df, use_container_width=True)
 
-st.subheader("Per-player scouting table (HT-scaled scores by role)")
-st.dataframe(scout_df, use_container_width=True)
+    c1, c2 = st.columns(2)
+    with c1:
+        st.subheader("Bench suggestions")
+        st.dataframe(bench_df, use_container_width=True)
+    with c2:
+        st.subheader("GK candidates (≥ threshold)")
+        if not gk_df.empty:
+            st.dataframe(
+                gk_df.drop(columns=["player_idx"]),
+                use_container_width=True
+            )
+        else:
+            st.info("No GK meets threshold.")
 
-st.download_button("Download XI (CSV)", xi_df.to_csv(index=False).encode("utf-8"), file_name="best_xi.csv")
-st.download_button("Download Bench (CSV)", bench_df.to_csv(index=False).encode("utf-8"), file_name="bench.csv")
-st.download_button("Download Scouting (CSV)", scout_df.to_csv(index=False).encode("utf-8"), file_name="scouting_roles.csv")
+    st.download_button("Download XI (CSV)", xi_df.to_csv(index=False).encode("utf-8"), file_name="best_xi.csv")
+    st.download_button("Download Bench (CSV)", bench_df.to_csv(index=False).encode("utf-8"), file_name="bench.csv")
+
+with tab_ft:
+    st.subheader("Top 10 by role – Foxtrick contributions")
+
+    def build_top10(players, label, code):
+        rows = []
+        for p in players:
+            if code == "kp" and float(p.KeeperSkill) < float(gk_min):
+                continue
+            score, parts = ft_role_score(p, code, use_exp, use_loy, use_sta, use_form, use_bruised, ft_params)
+            rows.append({
+                "Name": p.Name,
+                "Side": (p.Side or ""),
+                "Specialty": (p.Specialty or "None"),
+                "Experience": p.Experience,
+                "Form": p.Form,
+                "Stamina": p.Stamina,
+                "Contribution": score,
+            })
+        if not rows:
+            return label, pd.DataFrame(columns=["Name","Side","Specialty","Experience","Form","Stamina","Contribution"])
+        df = pd.DataFrame(rows).sort_values("Contribution", ascending=False).head(10).reset_index(drop=True)
+        return label, df
+
+    role_defs = [
+        ("GK",  "kp"),
+        ("CD",  "cd"),
+        ("WBR", "wb"),
+        ("WBL", "wb"),
+        ("IM",  "im"),
+        ("WGR", "w"),
+        ("WGL", "w"),
+        ("FW",  "fw"),
+    ]
+
+    grid = [role_defs[0:4], role_defs[4:8]]
+    for row in grid:
+        cols = st.columns(4)
+        for (col, (label, code)) in zip(cols, row):
+            with col:
+                name, df = build_top10(players, label, code)
+                st.markdown(f"**{name}**")
+                if df.empty:
+                    st.info("empty")
+                else:
+                    st.dataframe(df[["Name","Side","Specialty","Experience","Form","Stamina","Contribution"]]
+                                 .style.format({"Contribution":"{:.2f}"}), use_container_width=True)
+                    st.download_button(
+                        f"Download {name} Top 10",
+                        df.to_csv(index=False).encode("utf-8"),
+                        file_name=f"top10_{name.lower()}.csv",
+                        use_container_width=True,
+                    )
+
+with tab_scout:
+    st.subheader("Per-player scouting table (HT-scaled scores by role)")
+    st.dataframe(scout_df, use_container_width=True)
+    st.download_button("Download Scouting (CSV)", scout_df.to_csv(index=False).encode("utf-8"), file_name="scouting_roles.csv")
