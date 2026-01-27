@@ -61,7 +61,7 @@
       "sections": {
         "customSections": [
           "Leader",
-          "Unisson",
+          "Unison",
           "Battle",
           "Combo",
           "Energy",
@@ -117,7 +117,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Unison Area",
+                      "section": "Unison",
                       "style": {
                         "width": "20vh"
                       }
@@ -300,6 +300,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Leader Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unison": {
+            "title": "Unison",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unison Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
