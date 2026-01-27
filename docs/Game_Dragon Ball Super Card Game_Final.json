@@ -168,7 +168,7 @@
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
-          "Extra": "Drop",
+          "Extra": "Discard",
           "Energy Marker": "Energy"
         },
         "sectionsDict": {
