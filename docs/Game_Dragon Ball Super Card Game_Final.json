@@ -60,16 +60,16 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
+          "Z-Deck",
+          "Z-Energy",
           "Leader",
           "Life",
           "Unison",
           "Battle",
           "Combo",
           "Energy",
-          "Drop",
           "Warp",
-          "Z-Energy",
-          "Z-Deck"
+          "Drop"
         ],
         "layout": {
           "direction": "row",
