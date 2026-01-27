@@ -37,6 +37,15 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "Deck",
+            "count": 8,
+            "destination": "Life"
+          }
+        ]
+      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -53,8 +62,8 @@
         "customSections": [
           "Leader",
           "Unisson",
-          "Battle Area",
-          "Combo Area",
+          "Battle",
+          "Combo",
           "Energy",
           "Drop",
           "Warp",
@@ -114,17 +123,17 @@
                       }
                     },
                     {
-                      "section": "Battle Area",
+                      "section": "Battle",
                       "style": false
                     }
                   ]
                 },
                 {
-                  "section": "Combo Area",
+                  "section": "Combo",
                   "style": false
                 },
                 {
-                  "section": "Energy Area",
+                  "section": "Energy",
                   "style": false
                 }
               ]
