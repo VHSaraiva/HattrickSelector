@@ -168,7 +168,7 @@
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
-          "Extra": "Discard",
+          "Extra": "Drop",
           "Energy Marker": "Energy"
         },
         "sectionsDict": {
@@ -183,23 +183,6 @@
             "isGroupForbidden": true,
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
