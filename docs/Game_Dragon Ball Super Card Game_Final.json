@@ -292,38 +292,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Z-Deck": {
-            "title": "Z-Deck",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Z-Deck Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-            },
-          "Z-Energy": {
-            "title": "Z-Energy",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Z-Energy Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
@@ -333,6 +301,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Leader Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unison": {
+            "title": "Unison",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unison Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -355,22 +339,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
-          },
-          "Unison": {
-            "title": "Unison",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Unison Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
           },
           "Battle": {
             "title": "Battle",
@@ -420,6 +388,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+            "Drop": {
+            "title": "Drop",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Drop Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Warp": {
             "title": "Warp",
             "isHidden": "no",
@@ -436,22 +420,37 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "Drop": {
-            "title": "Drop",
+            "Z-Energy": {
+            "title": "Z-Energy",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Drop Area",
+            "displayedTitle": "Z-Energy Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          
+          },
+            "Z-Deck": {
+            "title": "Z-Deck",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Z-Deck Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
