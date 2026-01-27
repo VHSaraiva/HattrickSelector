@@ -61,6 +61,7 @@
       "sections": {
         "customSections": [
           "Leader",
+          "Life",
           "Unison",
           "Battle",
           "Combo",
@@ -145,11 +146,11 @@
               },
               "content": [
                 {
-                  "section": "Warp Area",
+                  "section": "Warp",
                   "style": false
                 },
                 {
-                  "section": "Drop Area",
+                  "section": "Drop",
                   "style": false
                 }
               ]
