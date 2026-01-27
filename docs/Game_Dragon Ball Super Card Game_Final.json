@@ -295,7 +295,7 @@
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -327,7 +327,7 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "18",
+            "height": "20",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -391,7 +391,7 @@
             "Drop": {
             "title": "Drop",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -407,7 +407,7 @@
           "Warp": {
             "title": "Warp",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -423,7 +423,7 @@
             "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -439,7 +439,7 @@
             "Z-Deck": {
             "title": "Z-Deck",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
