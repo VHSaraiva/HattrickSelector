@@ -430,8 +430,8 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Z-Energy Area",
             "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
+            "enterTapped": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
