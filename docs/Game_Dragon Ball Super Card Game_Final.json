@@ -168,7 +168,7 @@
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
-          "Extra": "Discard",
+          "Extra": "Drop",
           "Energy Marker": "Energy"
         },
         "sectionsDict": {
@@ -191,7 +191,7 @@
             "showHiddenCardInHistory": false
           },
           "Discard": {
-            "isDefaultSection": true,
+            "isDefaultSection": false,
             "title": "Discard",
             "isHidden": "no",
             "height": "SMALL",
