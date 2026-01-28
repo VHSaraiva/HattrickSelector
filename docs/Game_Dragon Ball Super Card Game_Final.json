@@ -295,7 +295,7 @@
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
-            "height": "20",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -327,7 +327,7 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "20",
+            "height": "18",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -391,7 +391,7 @@
             "Drop": {
             "title": "Drop",
             "isHidden": "no",
-            "height": "20",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -407,7 +407,7 @@
           "Warp": {
             "title": "Warp",
             "isHidden": "no",
-            "height": "20",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -423,15 +423,15 @@
             "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
-            "height": "20",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Z-Energy Area",
             "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": true,
+            "enterTapped": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
@@ -439,7 +439,7 @@
             "Z-Deck": {
             "title": "Z-Deck",
             "isHidden": "no",
-            "height": "20",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
