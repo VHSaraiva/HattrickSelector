@@ -146,7 +146,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Warp"
+          "Exile"
         ],
         "layout": {
           "direction": "row",
@@ -223,7 +223,7 @@
               },
               "content": [
                 {
-                  "section": "Warp",
+                  "section": "Exile",
                   "style": false
                 }
               ]
@@ -318,12 +318,12 @@
             "isDefaultSection": true,
             "title": "Exile",
             "isHidden": "no",
-            "height": "DEFAULT",
+            "height": "HUGE",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
-            "displayedTitle": "Exiled",
+            "displayedTitle": "Warp",
             "opponentAlignment": false,
             "noQuickActions": false,
             "enterTapped": false,
@@ -457,22 +457,6 @@
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Warp": {
-            "title": "Warp",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Warp Area",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
