@@ -237,7 +237,9 @@
         "autoPlayFromHand": {
           "Battle": "Battle",
           "Energy Marker": "Energy",
-          "Extra": "Stack"
+          "Extra": "Stack",
+          "Z-Deck": "Hand",
+          "Life": "Hand"
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
@@ -420,7 +422,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Battle Area",
             "noQuickActions": false,
             "enterTapped": false,
