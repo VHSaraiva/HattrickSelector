@@ -126,9 +126,14 @@
           "image": "https://vhsaraiva.github.io/HattrickSelector/docs/7_token.png"
         },
         {
-          "id": "once",
-          "name": "Once per turn",
+          "id": "barrier",
+          "name": "Barrier",
           "image": "https://vhsaraiva.github.io/HattrickSelector/docs/barrier_token.png"
+        },
+        {
+          "id": "ability-used",
+          "name": "Ability Used",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/used.png"
         }
       ],
       "sections": {
