@@ -1,0 +1,6965 @@
+{
+    "BT26-001": {
+        "id": "BT26-001",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Son Goku & Android 18, Unexpected Tag Team",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku: GT",
+            "Android 18"
+        ],
+        "back_era": [
+            "Super 17 Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Android"
+        ]
+    },
+    "BT26-001_PR": {
+        "id": "BT26-001_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001_PR.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Activate: Battle",
+            "Limit 1",
+            "Activate: Main/Battle",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Son Goku & Android 18, Unexpected Tag Team",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku: GT",
+            "Android 18"
+        ],
+        "back_era": [
+            "Super 17 Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Android"
+        ]
+    },
+    "BT26-002": {
+        "id": "BT26-002",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hell Fighter 17",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Super 17, Anti-Saiyan Killing Machine",
+        "back_power": "15000",
+        "back_character": [
+            "Super 17"
+        ],
+        "back_era": [
+            "Super 17 Saga"
+        ],
+        "back_traits": [
+            "Android",
+            "Machine Mutant"
+        ]
+    },
+    "BT26-002_PR": {
+        "id": "BT26-002_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hell Fighter 17",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002_PR.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Super 17, Anti-Saiyan Killing Machine",
+        "back_power": "15000",
+        "back_character": [
+            "Super 17"
+        ],
+        "back_era": [
+            "Super 17 Saga"
+        ],
+        "back_traits": [
+            "Android",
+            "Machine Mutant"
+        ]
+    },
+    "BT26-003": {
+        "id": "BT26-003",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Frieza, Emperor's Final Power",
+        "type": "Z-LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-003.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Frieza Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Once per turn",
+            "Swap",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-004": {
+        "id": "BT26-004",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Piccolo, Escape From Hell",
+        "type": "Z-UNISON",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-004.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "+2",
+            "Activate: Main",
+            "-4"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-005": {
+        "id": "BT26-005",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hell Fighter 17, Return of Despair",
+        "type": "Z-BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-005.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Union-Absorb",
+            "Limit 1",
+            "Permanent"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-006": {
+        "id": "BT26-006",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Sibling Confrontation",
+        "type": "Z-EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-006.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-007": {
+        "id": "BT26-007",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Power-Infused Shocking Death Ball",
+        "type": "Z-EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-007.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1",
+            "Double Strike"
+        ],
+        "z_energy_cost": "3",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-008": {
+        "id": "BT26-008",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Frieza, Combo Assault",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-008.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Frieza Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Dual Attack",
+            "Swap 5",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-009": {
+        "id": "BT26-009",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS4 Son Goku, Showdown With a Machine Mutant",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-009.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-010": {
+        "id": "BT26-010",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS4 Son Goku, Deadly Combat With a Machine Mutant",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-010.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-011": {
+        "id": "BT26-011",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Beginning of a Fierce Battle",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-011.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-012": {
+        "id": "BT26-012",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Beggining of Deadly Combat",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-012.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Auto",
+            "Limit 1",
+            "Activate: Battle",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-013": {
+        "id": "BT26-013",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Deadly Combat Settled",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Triple Strike",
+            "Auto",
+            "Limit 1",
+            "Barrier"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-013_SPR": {
+        "id": "BT26-013_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Deadly Combat Settled",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013_SPR.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "deflect",
+            "triple strike",
+            "auto",
+            "limit 1",
+            "red_ball",
+            "barrier"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-014": {
+        "id": "BT26-014",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegeta, Prince's Pride",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-014.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Vegeta: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-015": {
+        "id": "BT26-015",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Trunks, Premonition of a Heated Battle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-015.webp",
+        "power": "4000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Trunks: GT"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-016": {
+        "id": "BT26-016",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 18, Deadly Combat Settled",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-016.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Android 18"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-017": {
+        "id": "BT26-017",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 17, Guided Fusion",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-017.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-018": {
+        "id": "BT26-018",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 17, Fusion Accepted",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-018.webp",
+        "power": "4000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-019": {
+        "id": "BT26-019",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 17 & Hell Fighter 17, Team of Evil",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "7",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Android 17",
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-019_SPR": {
+        "id": "BT26-019_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 17 & Hell Fighter 17, Team of Evil",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019_SPR.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "7",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Android 17",
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "permanent",
+            "auto",
+            "activate main",
+            "limit 1",
+            "one"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-020": {
+        "id": "BT26-020",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hell Fighter 17, Infernal Creation",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-020.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-021": {
+        "id": "BT26-021",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hell Fighter 17, Fusion Urged",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-021.webp",
+        "power": "4000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Hell Fighter 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-022": {
+        "id": "BT26-022",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Ultimate Masterpiece",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Activate: Battle",
+            "Limit 1",
+            "Barrier",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-022_SPR": {
+        "id": "BT26-022_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Ultimate Masterpiece",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022_SPR.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "blocker",
+            "activate: battle",
+            "limit 1",
+            "one",
+            "barrier",
+            "once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-023": {
+        "id": "BT26-023",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Absorbing Power",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-023.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-024": {
+        "id": "BT26-024",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Attack Commenced",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-024.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-025": {
+        "id": "BT26-025",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Sibling Fusion",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-025.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "7",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Special"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "EX-Evolve",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-026": {
+        "id": "BT26-026",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Perfect Evolution",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-026.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "7",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Special"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "EX-Evolve",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-027": {
+        "id": "BT26-027",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Double-Strike Explosion",
+        "type": "EXTRA",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-027.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-028": {
+        "id": "BT26-028",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Exploding Energy",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-028.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-029": {
+        "id": "BT26-029",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Polar Strike 10x Kamehameha",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-029.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Limit 1",
+            "Blocker"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-030": {
+        "id": "BT26-030",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Power Absorption and Release",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-030.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "8",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Field",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-031": {
+        "id": "BT26-031",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gogeta",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Union",
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SSB Gogeta, Mighty Fusion Warrior",
+        "back_power": "15000",
+        "back_character": [
+            "Gogeta: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-031_PR": {
+        "id": "BT26-031_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gogeta",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031_PR.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "permanent",
+            "union",
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SSB Gogeta, Mighty Fusion Warrior",
+        "back_power": "15000",
+        "back_character": [
+            "Gogeta: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-032": {
+        "id": "BT26-032",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SS Broly, Full-Power Explosion",
+        "back_power": "15000",
+        "back_character": [
+            "Broly: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ]
+    },
+    "BT26-032_PR": {
+        "id": "BT26-032_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "permanent",
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SS Broly, Full-Power Explosion",
+        "back_power": "15000",
+        "back_character": [
+            "Broly: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ]
+    },
+    "BT26-032_PR2": {
+        "id": "BT26-032_PR2",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR2.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "permanent",
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SS Broly, Full-Power Explosion",
+        "back_power": "15000",
+        "back_character": [
+            "Broly: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ]
+    },
+    "BT26-033": {
+        "id": "BT26-033",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS2 Cabba, Battling for Survival",
+        "type": "Z-LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-033.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cabba"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Z-Awaken",
+            "Auto",
+            "Once per turn",
+            "Barrier",
+            "Activate: Battle",
+            "Spirit Boost 1"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-034": {
+        "id": "BT26-034",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Whis, Waiting Patiently",
+        "type": "Z-UNISON",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-034.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Activate: Main",
+            "0",
+            "Auto"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-035": {
+        "id": "BT26-035",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Paragus, Cunning Parent",
+        "type": "Z-UNISON",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-035.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "+1",
+            "Activate: Battle",
+            "Servant",
+            "0",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-036": {
+        "id": "BT26-036",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cheelai & Lemo, Kind Friends",
+        "type": "Z-BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-036.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cheeli: Br",
+            "Lemo: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Limit 1",
+            "Spirit Boost 3"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-037": {
+        "id": "BT26-037",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Golden Frieza, Unexpected Combat",
+        "type": "Z-BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-037.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Frieza: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-038": {
+        "id": "BT26-038",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Practicing Fusion",
+        "type": "Z-EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-038.webp",
+        "power": "",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Stack 2",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-039": {
+        "id": "BT26-039",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Snowy Mountain Battle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-039.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-040": {
+        "id": "BT26-040",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Long-Awaited Battle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-040.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-041": {
+        "id": "BT26-041",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Son Goku & SSB Vegeta, Height of Power",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: Br",
+            "Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-041_SPR": {
+        "id": "BT26-041_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Son Goku & SSB Vegeta, Height of Power",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041_SPR.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: Br",
+            "Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate: battle",
+            "limit 1",
+            "blue_ball"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-042": {
+        "id": "BT26-042",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Vegeta, Snowy Mountain Battle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-042.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-043": {
+        "id": "BT26-043",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegeta, First Offense",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-043.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-044": {
+        "id": "BT26-044",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Gogeta, Battle for Peace",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044.webp",
+        "power": "35000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Union-Fusion",
+            "Limit 1",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-044_SPR": {
+        "id": "BT26-044_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Gogeta, Battle for Peace",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044_SPR.webp",
+        "power": "35000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "double strike",
+            "union-fusion",
+            "limit 1",
+            "two",
+            "auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-045": {
+        "id": "BT26-045",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Gogeta, Battling a Strong Foe",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-045.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Union-Fusion",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-046": {
+        "id": "BT26-046",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Gogeta, Intense Fight With a Strong Foe",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-046.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Union-Fusion",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-047": {
+        "id": "BT26-047",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gogeta, Fusion Warrior Debut",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-047.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Union-Fusion",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-048": {
+        "id": "BT26-048",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gogeta, Fusion Achieved",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-048.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Union-Fusion",
+            "Auto",
+            "Limit 1",
+            "Barrier"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-049": {
+        "id": "BT26-049",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Broly, Unrestrained Destruction",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049.webp",
+        "power": "35000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "EX-Evolve",
+            "Limit 1",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-049_SPR": {
+        "id": "BT26-049_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Broly, Unrestrained Destruction",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049_SPR.webp",
+        "power": "35000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "ex-evolve",
+            "limit 1",
+            "blue_ball",
+            "activate main",
+            "two",
+            "once per turn",
+            "double strike"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-050": {
+        "id": "BT26-050",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Broly, Full Power Released",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-050.webp",
+        "power": "35000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "EX-Evolve",
+            "Auto",
+            "Limit 1",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-051": {
+        "id": "BT26-051",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Broly, Duel With a Fusion Warrior",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-051.webp",
+        "power": "25000",
+        "color": "Blue",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "EX-Evolve",
+            "Auto",
+            "Limit 1",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-052": {
+        "id": "BT26-052",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly, Restrained",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-052.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "EX-Evolve",
+            "Auto",
+            "Limit 1",
+            "Once per turn",
+            "Barrier"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-053": {
+        "id": "BT26-053",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly, Unchained Power",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-053.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "EX-Evolve",
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-054": {
+        "id": "BT26-054",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Broly, Clashing Saiyan",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-054.webp",
+        "power": "9000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Unique",
+            "Activate: Main",
+            "Limit 1",
+            "Servant"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-055": {
+        "id": "BT26-055",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cheelai, Friend's Aid",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-055.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Cheelai: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-056": {
+        "id": "BT26-056",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Frieza, Forceful Power Up",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-056.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Frieza: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-057": {
+        "id": "BT26-057",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Beets, Saiyan Drawn Into Battle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-057.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Beets: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-058": {
+        "id": "BT26-058",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Ba, First Friend",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-058.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Ba: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Alien"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-059": {
+        "id": "BT26-059",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gigantic Press",
+        "type": "EXTRA",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-059.webp",
+        "power": "",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-060": {
+        "id": "BT26-060",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Vegito, Prodigious Fusion",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-060_PR": {
+        "id": "BT26-060_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Vegito, Prodigious Fusion",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-060_PR2": {
+        "id": "BT26-060_PR2",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR2.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Vegito, Prodigious Fusion",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-060_PR3": {
+        "id": "BT26-060_PR3",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR3.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Vegito, Prodigious Fusion",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-060_PR4": {
+        "id": "BT26-060_PR4",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR4.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Vegito, Prodigious Fusion",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "BT26-061": {
+        "id": "BT26-061",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Zamasu",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent",
+            "Union",
+            "Evolve"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Fused Zamasu, Insanity From Justice",
+        "back_power": "15000",
+        "back_character": [
+            "Zamasu"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "God"
+        ]
+    },
+    "BT26-061_PR": {
+        "id": "BT26-061_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Zamasu",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061_PR.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Fused Zamasu, Insanity From Justice",
+        "back_power": "15000",
+        "back_character": [
+            "Zamasu"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "God"
+        ]
+    },
+    "BT26-062": {
+        "id": "BT26-062",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Great Saiyaman 2, Fresh New Hero",
+        "type": "Z-LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-062.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Videl"
+        ],
+        "era": [
+            "Hirudegarn Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn",
+            "Blocker"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-063": {
+        "id": "BT26-063",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Vegito, Surpassing Immortal Gods!",
+        "type": "Z-LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-063.webp",
+        "power": "30000",
+        "color": "Green",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn",
+            "Double Strike"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-064": {
+        "id": "BT26-064",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS4 Vegito, Attaining Greater Power",
+        "type": "Z-UNISON",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "+1",
+            "Activate: Main",
+            "-2"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-064_SPR": {
+        "id": "BT26-064_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS4 Vegito, Attaining Greater Power",
+        "type": "Z-UNISON",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064_SPR.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "+1",
+            "activate main",
+            "-2"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-065": {
+        "id": "BT26-065",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gowasu, Instructor",
+        "type": "Z-UNISON",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-065.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "0",
+            "Activate: Main",
+            "-3",
+            "Blocker"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-066": {
+        "id": "BT26-066",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Zamasu & Goku Black, Meeting in Despair",
+        "type": "Z-BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-066.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Zamasu",
+            "Goku Black"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Dual Attack",
+            "Auto",
+            "Limit 1"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-067": {
+        "id": "BT26-067",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Great Saiyaman, Protector",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-067.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Adolescence"
+        ],
+        "era": [
+            "Hirudegarn Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-068": {
+        "id": "BT26-068",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Son Goku, God Challenger",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-068.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-069": {
+        "id": "BT26-069",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-069.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-070": {
+        "id": "BT26-070",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Potara Premonition",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-070.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-071": {
+        "id": "BT26-071",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Son Goku & SSB Vegeta, Realized Premonition of Fusion",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-071.webp",
+        "power": "19000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-072": {
+        "id": "BT26-072",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Vegeta, God Challenger",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-072.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-073": {
+        "id": "BT26-073",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegeta",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-073.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-074": {
+        "id": "BT26-074",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegeta, Potara Premonition",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-074.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-075": {
+        "id": "BT26-075",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Vegito, All-Out Super Warrior",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075.webp",
+        "power": "35000",
+        "color": "Green",
+        "energy_cost": "9",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Triple Attack",
+            "Blocker",
+            "Union-Potara",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-075_SPR": {
+        "id": "BT26-075_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Vegito, All-Out Super Warrior",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075_SPR.webp",
+        "power": "35000",
+        "color": "Green",
+        "energy_cost": "9",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "barrier",
+            "triple attack",
+            "blocker",
+            "union-potara",
+            "green_ball",
+            "auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-076": {
+        "id": "BT26-076",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegito, Ultimate Unrivaled Fusion",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-076.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Dual Attack",
+            "Union-Potara",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-077": {
+        "id": "BT26-077",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Mai, Kind Guardian",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-077.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Mai: Future"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-078": {
+        "id": "BT26-078",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Gowasu, Stern Rebuke",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-078.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Gowasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-079": {
+        "id": "BT26-079",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Rose Goku Black, Attack Wave",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-079.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Goku Black"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Blocker",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-080": {
+        "id": "BT26-080",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Rose Goku Black, Heightened Form",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-080.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Goku Black"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Union",
+            "Double Strike",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-081": {
+        "id": "BT26-081",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Goku Black, Returning to Zero",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-081.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Goku Black"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-082": {
+        "id": "BT26-082",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fused Zamasu, Total God's Rage",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-082.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Indestructible",
+            "EX-Evolve",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-083": {
+        "id": "BT26-083",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fused Zamasu, Unified Ultimate God",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Indestructible",
+            "Union-Potara",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-083_SPR": {
+        "id": "BT26-083_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fused Zamasu, Unified Ultimate God",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083_SPR.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "indestructible",
+            "union-potara",
+            "one",
+            "activate main",
+            "limit 1",
+            "two"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-084": {
+        "id": "BT26-084",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fused Zamasu, Ideal World Creation",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-084.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Indestructible",
+            "Union-Potara",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-085": {
+        "id": "BT26-085",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fused Zamasu, Cleansing Despair",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-085.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Indestructible",
+            "Union-Potara",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-086": {
+        "id": "BT26-086",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Zamasu, Doubt in Man and God",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-086.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Union",
+            "Critical",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-087": {
+        "id": "BT26-087",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Zamasu, Returning to Zero",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-087.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-088": {
+        "id": "BT26-088",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Potara",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-088.webp",
+        "power": "",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Field",
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-089": {
+        "id": "BT26-089",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Assault",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-089.webp",
+        "power": "",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-090": {
+        "id": "BT26-090",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SS Son Goku & SS Son Gohan, Battling Father & Son",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku",
+            "Son Gohan: Childhood"
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Earthling"
+        ]
+    },
+    "BT26-090_PR": {
+        "id": "BT26-090_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090_PR.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "SS Son Goku & SS Son Gohan, Battling Father & Son",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku",
+            "Son Gohan: Childhood"
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Earthling"
+        ]
+    },
+    "BT26-091": {
+        "id": "BT26-091",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Cell, Fear Itself",
+        "back_power": "15000",
+        "back_character": [
+            "Cell"
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Android",
+            "Cell Games"
+        ]
+    },
+    "BT26-091_PR": {
+        "id": "BT26-091_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091_PR.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Cell, Fear Itself",
+        "back_power": "15000",
+        "back_character": [
+            "Cell"
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Android",
+            "Cell Games"
+        ]
+    },
+    "BT26-092": {
+        "id": "BT26-092",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Final Destination",
+        "type": "Z-LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-092.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Special"
+        ],
+        "traits": [
+            "Saiyan",
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Awaken",
+            "Activate: Main",
+            "Once per turn",
+            "Swap",
+            "Limit 1"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-093": {
+        "id": "BT26-093",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Protective Father",
+        "type": "Z-UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-093.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Z-Stack 1",
+            "Permanent",
+            "+1",
+            "Activate: Main",
+            "0",
+            "Swap"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-094": {
+        "id": "BT26-094",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell Games Arena, Greatest Stage",
+        "type": "Z-UNISON",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-094.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "+2",
+            "Activate: Main",
+            "-4"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-095": {
+        "id": "BT26-095",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Gohan, Destiny Entrusted",
+        "type": "Z-BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-095.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Barrier",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-096": {
+        "id": "BT26-096",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, All-Encompassing Terror",
+        "type": "Z-BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-096.webp",
+        "power": "25000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Barrier",
+            "Dual Attack",
+            "Blocker",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-097": {
+        "id": "BT26-097",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Entrusting Father",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-097.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Swap 5",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-098": {
+        "id": "BT26-098",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Goku, Entrusting Destiny",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-098.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Swap 5",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-099": {
+        "id": "BT26-099",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, to the Cell Games",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-099.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Super Combo"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-100": {
+        "id": "BT26-100",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS2 Son Gohan, Rage Triggered",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-100.webp",
+        "power": "30000",
+        "color": "Yellow",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "EX-Evolve",
+            "Auto",
+            "Barrier"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-101": {
+        "id": "BT26-101",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Gohan, Youth Defying Terror",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Dual Attack",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-101_SPR": {
+        "id": "BT26-101_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Gohan, Youth Defying Terror",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101_SPR.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "deflect",
+            "dual attack",
+            "auto",
+            "activate main",
+            "limit 1",
+            "yellow_ball"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-102": {
+        "id": "BT26-102",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS Son Gohan, Fighting Against Terror",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-102.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1",
+            "Double Strike"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-103": {
+        "id": "BT26-103",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Gohan, Preparing for the Cell Games",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-103.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-104": {
+        "id": "BT26-104",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Vegeta, to the Cell Games",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-104.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-105": {
+        "id": "BT26-105",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Trunks, Watcher From the Future",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-105.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-106": {
+        "id": "BT26-106",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Piccolo, to the Cell Games",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-106.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Piccolo"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-107": {
+        "id": "BT26-107",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hercule",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-107.webp",
+        "power": "30000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Hercule"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-108": {
+        "id": "BT26-108",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 16, Trigger to Awakening",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-108.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-109": {
+        "id": "BT26-109",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Complete Terror",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109.webp",
+        "power": "25000",
+        "color": "Yellow",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Critical",
+            "EX-Evolve",
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-109_SPR": {
+        "id": "BT26-109_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Complete Terror",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109_SPR.webp",
+        "power": "25000",
+        "color": "Yellow",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "deflect",
+            "critical",
+            "ex-evolve",
+            "one",
+            "auto",
+            "activate main",
+            "once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-110": {
+        "id": "BT26-110",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Maximum Terror",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-110.webp",
+        "power": "25000",
+        "color": "Yellow",
+        "energy_cost": "7",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-111": {
+        "id": "BT26-111",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Explosive Terror",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Barrier",
+            "Activate: Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-111_SPR": {
+        "id": "BT26-111_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Explosive Terror",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111_SPR.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate main",
+            "once per turn",
+            "barrier",
+            "activate: battle",
+            "limit 1",
+            "yellow_ball"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-112": {
+        "id": "BT26-112",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Evolved Terror",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-112.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-113": {
+        "id": "BT26-113",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Writhing Terror",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-113.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-114": {
+        "id": "BT26-114",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Absorption Terror",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-114.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-115": {
+        "id": "BT26-115",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Growing Terror",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-115.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-116": {
+        "id": "BT26-116",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cell, Beginnings of Terror",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-116.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-117": {
+        "id": "BT26-117",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Son Goku, Lineage to the Pinnacle",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-117.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Battle of Gods Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Swap 8",
+            "Counter: Play",
+            "Limit 1",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-118": {
+        "id": "BT26-118",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Rest and Wait",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-118.webp",
+        "power": "",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-119": {
+        "id": "BT26-119",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Stonework",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-119.webp",
+        "power": "",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Play",
+            "Limit 1",
+            "Activate: Main",
+            "Spirit Boost 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-120": {
+        "id": "BT26-120",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cooler",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Golden Cooler, Dimension-Transcending Growth",
+        "back_power": "15000",
+        "back_character": [
+            "Cooler"
+        ],
+        "back_era": [
+            "Prison Planet Saga"
+        ],
+        "back_traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ]
+    },
+    "BT26-120_PR": {
+        "id": "BT26-120_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cooler",
+        "type": "LEADER",
+        "rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120_PR.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": "",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": "",
+        "back_name": "Golden Cooler, Dimension-Transcending Growth",
+        "back_power": "15000",
+        "back_character": [
+            "Cooler"
+        ],
+        "back_era": [
+            "Prison Planet Saga"
+        ],
+        "back_traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ]
+    },
+    "BT26-121": {
+        "id": "BT26-121",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Fu, Schemer Behind Everything",
+        "type": "Z-UNISON",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-121.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "+1",
+            "Blocker"
+        ],
+        "z_energy_cost": "1",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-122": {
+        "id": "BT26-122",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cumber, Banished Evil",
+        "type": "Z-BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-122.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": [
+            "Cumber"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "2",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-123": {
+        "id": "BT26-123",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS4 Son Goku, Confined Warrior",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-123.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Son Goku: Xeno"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-124": {
+        "id": "BT26-124",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Vegito",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-124.webp",
+        "power": "30000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-125": {
+        "id": "BT26-125",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Trunks, Unanticipated Cooperation",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-125.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-126": {
+        "id": "BT26-126",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Trunks, Escape",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-126.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-127": {
+        "id": "BT26-127",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Golden Cooler, Golden Fighting Spirit",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127.webp",
+        "power": "30000",
+        "color": "Black",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-127_SPR": {
+        "id": "BT26-127_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Golden Cooler, Golden Fighting Spirit",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127_SPR.webp",
+        "power": "30000",
+        "color": "Black",
+        "energy_cost": "8",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "double strike",
+            "auto",
+            "barrier",
+            "activate main",
+            "limit 1",
+            "black_ball"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-128": {
+        "id": "BT26-128",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cooler, Strongest Pride",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-128_SPR": {
+        "id": "BT26-128_SPR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cooler, Strongest Pride",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128_SPR.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "auto",
+            "activate main",
+            "limit 1",
+            "black_ball"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-129": {
+        "id": "BT26-129",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cooler, Confined Warrior",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-129.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-130": {
+        "id": "BT26-130",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Cumber, Imposing Villainy",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-130.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "BT26",
+        "character": [
+            "Cumber"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-131": {
+        "id": "BT26-131",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Boujack, Confined Warrior",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-131.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Boujack"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Boujack Brigade",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-132": {
+        "id": "BT26-132",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Hatchhyack, Confined Warrior",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-132.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Hatchhyack"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Machine Mutant",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-133": {
+        "id": "BT26-133",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Majin Ozotto, Confined Warrior",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-133.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Majin Ozotto"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Majin",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Revenge",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-134": {
+        "id": "BT26-134",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Set-up Battle",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-134.webp",
+        "power": "",
+        "color": "Black",
+        "energy_cost": "0",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Play",
+            "Limit 1",
+            "Barrier",
+            "Blocker",
+            "Permanent",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-135": {
+        "id": "BT26-135",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Android 17 & Frieza, Momentary Kinship Legends",
+        "type": "UNISON",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-135.webp",
+        "power": "15000",
+        "color": "Red/Blue",
+        "energy_cost": "X",
+        "combo_cost": "",
+        "combo_power": "",
+        "series": "BT26",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Blocker",
+            "Permanent",
+            "Auto",
+            "+1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-136": {
+        "id": "BT26-136",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Super 17, Rapid Attack",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-136.webp",
+        "power": "20000",
+        "color": "Red/Green",
+        "energy_cost": "6",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "BT26",
+        "character": [
+            "Super 17"
+        ],
+        "era": [
+            "Super 17 Saga"
+        ],
+        "traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-137": {
+        "id": "BT26-137",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SS2 Cabba, Sudden Growth Anew",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-137.webp",
+        "power": "25000",
+        "color": "Blue/Yellow",
+        "energy_cost": "7",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Cabba"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Blocker",
+            "Arrival Blue/Yellow",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-138": {
+        "id": "BT26-138",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Gogeta, Shining Blue Strongest Warrior",
+        "type": "BATTLE",
+        "rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138.webp",
+        "power": "45000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Ultimate",
+            "Union-Fusion",
+            "Auto",
+            "Barrier",
+            "Triple Attack",
+            "Blocker",
+            "Activate: Main/Battle",
+            "Once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-138_PR": {
+        "id": "BT26-138_PR",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "SSB Gogeta, Shining Blue Strongest Warrior",
+        "type": "BATTLE",
+        "rarity": "God Rare[GDR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138_PR.webp",
+        "power": "45000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Gogeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "ultimate",
+            "union-fusion",
+            "two",
+            "auto",
+            "barrier",
+            "triple attack",
+            "blocker",
+            "activate: main/battle",
+            "once per turn"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-139": {
+        "id": "BT26-139",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Metamorphic Android Cell",
+        "type": "BATTLE",
+        "rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-139.webp",
+        "power": "40000",
+        "color": "Green",
+        "energy_cost": "10",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Cell Games"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Ultimate",
+            "Auto",
+            "Barrier",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "BT26-140": {
+        "id": "BT26-140",
+        "face": {
+            "front": {},
+            "back": {}
+        },
+        "name": "Perfected Ultra Instinct Son Goku, Transcendence",
+        "type": "BATTLE",
+        "rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-140.webp",
+        "power": "45000",
+        "color": "Black",
+        "energy_cost": "10",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "BT26",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Prison Planet"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Ultimate",
+            "Victory Strike",
+            "Auto",
+            "Blocker",
+            "Counter",
+            "Activate: Main"
+        ],
+        "z_energy_cost": "",
+        "back_name": "",
+        "back_power": "",
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}
