@@ -8,7 +8,7 @@
   "customHelp": "\"How to play DB Fusion World:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/fusionWorldCardList.json",
+    "dataUrl": "https://vhsaraiva.github.io/HattrickSelector/docs/bt26cards.json",
     "cardBack": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/cardBack.webp"
   },
   "deckBuilding": {
