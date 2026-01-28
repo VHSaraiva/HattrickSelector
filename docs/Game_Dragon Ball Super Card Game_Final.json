@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vhsaraiva.github.io/HattrickSelector/docs/bt26cards.json",
-    "cardBack": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/cardBack.webp"
+    "cardBack": "https://vhsaraiva.github.io/HattrickSelector/docs/cardBack.webp"
   },
   "deckBuilding": {
     "mainFilters": [
