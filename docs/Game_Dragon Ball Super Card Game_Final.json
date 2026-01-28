@@ -243,7 +243,7 @@
             "title": "Deck",
             "isHidden": "yes",
             "height": "DEFAULT",
-            "alignment": "NONE",
+            "alignment": "Battle",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "opponentAlignment": false,
