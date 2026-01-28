@@ -41,7 +41,7 @@
             "maxPerCard": 1
           },
           {
-            "category": "Main Deck",
+            "category": "Battle",
             "min": 50,
             "max": 60
           },
