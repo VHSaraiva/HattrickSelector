@@ -191,7 +191,7 @@
             "showHiddenCardInHistory": false
           },
           "Discard": {
-            "isDefaultSection": false,
+            "isDefaultSection": true,
             "title": "Discard",
             "isHidden": "no",
             "height": "SMALL",
