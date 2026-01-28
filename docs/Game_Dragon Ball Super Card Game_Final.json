@@ -51,7 +51,7 @@
             "max": 15
           },
           {
-            "category": "Z Deck",
+            "category": "Z-Deck",
             "min": 0,
             "max": 10
           }
@@ -146,7 +146,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Exile"
+          "Warp"
         ],
         "layout": {
           "direction": "row",
@@ -223,7 +223,7 @@
               },
               "content": [
                 {
-                  "section": "Exile",
+                  "section": "Warp",
                   "style": false
                 }
               ]
@@ -318,12 +318,12 @@
             "isDefaultSection": true,
             "title": "Exile",
             "isHidden": "no",
-            "height": "HUGE",
+            "height": "SMALL",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
-            "displayedTitle": "Warp",
+            "displayedTitle": "Exile",
             "opponentAlignment": false,
             "noQuickActions": false,
             "enterTapped": false,
@@ -461,6 +461,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+          "Warp": {
+            "title": "Warp",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Warp Area",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
             "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
@@ -481,10 +497,10 @@
             "title": "Z-Deck",
             "isHidden": "yes",
             "height": "20",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Z-Deck Area",
             "noQuickActions": false,
             "enterTapped": false,
