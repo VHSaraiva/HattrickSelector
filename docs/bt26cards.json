@@ -4,7 +4,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001.webp",
@@ -12,7 +12,7 @@
             },
             "back": {
                 "name": "Son Goku & Android 18, Unexpected Tag Team",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001_b.webp",
@@ -20,7 +20,7 @@
             }
         },
         "name": "Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001.webp",
         "power": "10000",
@@ -65,7 +65,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001_PR.webp",
@@ -73,7 +73,7 @@
             },
             "back": {
                 "name": "Son Goku & Android 18, Unexpected Tag Team",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001_PR_b.webp",
@@ -81,7 +81,7 @@
             }
         },
         "name": "Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-001_PR.webp",
         "power": "10000",
@@ -130,7 +130,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002.webp",
@@ -138,7 +138,7 @@
             },
             "back": {
                 "name": "Super 17, Anti-Saiyan Killing Machine",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002_b.webp",
@@ -146,7 +146,7 @@
             }
         },
         "name": "Hell Fighter 17",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002.webp",
         "power": "10000",
@@ -194,7 +194,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002_PR.webp",
@@ -202,7 +202,7 @@
             },
             "back": {
                 "name": "Super 17, Anti-Saiyan Killing Machine",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002_PR_b.webp",
@@ -210,7 +210,7 @@
             }
         },
         "name": "Hell Fighter 17",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-002_PR.webp",
         "power": "10000",
@@ -257,7 +257,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Emperor's Final Power",
-                "type": "Z-LEADER",
+                "type": "Z-Leader",
                 "cost": "",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-003.webp",
@@ -266,7 +266,7 @@
             "back": {}
         },
         "name": "Frieza, Emperor's Final Power",
-        "type": "Z-LEADER",
+        "type": "Z-Leader",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-003.webp",
         "power": "20000",
@@ -348,7 +348,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Return of Despair",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-005.webp",
@@ -357,7 +357,7 @@
             "back": {}
         },
         "name": "Hell Fighter 17, Return of Despair",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-005.webp",
         "power": "15000",
@@ -396,7 +396,7 @@
         "face": {
             "front": {
                 "name": "Sibling Confrontation",
-                "type": "Z-EXTRA",
+                "type": "Z-Extra",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-006.webp",
@@ -405,7 +405,7 @@
             "back": {}
         },
         "name": "Sibling Confrontation",
-        "type": "Z-EXTRA",
+        "type": "Z-Extra",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-006.webp",
         "power": "",
@@ -437,7 +437,7 @@
         "face": {
             "front": {
                 "name": "Power-Infused Shocking Death Ball",
-                "type": "Z-EXTRA",
+                "type": "Z-Extra",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-007.webp",
@@ -446,7 +446,7 @@
             "back": {}
         },
         "name": "Power-Infused Shocking Death Ball",
-        "type": "Z-EXTRA",
+        "type": "Z-Extra",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-007.webp",
         "power": "",
@@ -479,7 +479,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Combo Assault",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-008.webp",
@@ -488,7 +488,7 @@
             "back": {}
         },
         "name": "Frieza, Combo Assault",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-008.webp",
         "power": "15000",
@@ -528,7 +528,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Showdown With a Machine Mutant",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-009.webp",
@@ -537,7 +537,7 @@
             "back": {}
         },
         "name": "SS4 Son Goku, Showdown With a Machine Mutant",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-009.webp",
         "power": "20000",
@@ -576,7 +576,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Deadly Combat With a Machine Mutant",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-010.webp",
@@ -585,7 +585,7 @@
             "back": {}
         },
         "name": "SS4 Son Goku, Deadly Combat With a Machine Mutant",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-010.webp",
         "power": "20000",
@@ -623,7 +623,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Beginning of a Fierce Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-011.webp",
@@ -632,7 +632,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Beginning of a Fierce Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-011.webp",
         "power": "15000",
@@ -670,7 +670,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Beggining of Deadly Combat",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-012.webp",
@@ -679,7 +679,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Beggining of Deadly Combat",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-012.webp",
         "power": "10000",
@@ -719,7 +719,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Deadly Combat Settled",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013.webp",
@@ -728,7 +728,7 @@
             "back": {}
         },
         "name": "Son Goku, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013.webp",
         "power": "30000",
@@ -768,7 +768,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Deadly Combat Settled",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013_SPR.webp",
@@ -777,7 +777,7 @@
             "back": {}
         },
         "name": "Son Goku, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-013_SPR.webp",
         "power": "30000",
@@ -818,7 +818,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, Prince's Pride",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-014.webp",
@@ -827,7 +827,7 @@
             "back": {}
         },
         "name": "Vegeta, Prince's Pride",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-014.webp",
         "power": "15000",
@@ -864,7 +864,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Premonition of a Heated Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-015.webp",
@@ -873,7 +873,7 @@
             "back": {}
         },
         "name": "Trunks, Premonition of a Heated Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-015.webp",
         "power": "4000",
@@ -911,7 +911,7 @@
         "face": {
             "front": {
                 "name": "Android 18, Deadly Combat Settled",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-016.webp",
@@ -920,7 +920,7 @@
             "back": {}
         },
         "name": "Android 18, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-016.webp",
         "power": "20000",
@@ -958,7 +958,7 @@
         "face": {
             "front": {
                 "name": "Android 17, Guided Fusion",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-017.webp",
@@ -967,7 +967,7 @@
             "back": {}
         },
         "name": "Android 17, Guided Fusion",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-017.webp",
         "power": "15000",
@@ -1005,7 +1005,7 @@
         "face": {
             "front": {
                 "name": "Android 17, Fusion Accepted",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-018.webp",
@@ -1014,7 +1014,7 @@
             "back": {}
         },
         "name": "Android 17, Fusion Accepted",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-018.webp",
         "power": "4000",
@@ -1052,7 +1052,7 @@
         "face": {
             "front": {
                 "name": "Android 17 & Hell Fighter 17, Team of Evil",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019.webp",
@@ -1061,7 +1061,7 @@
             "back": {}
         },
         "name": "Android 17 & Hell Fighter 17, Team of Evil",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019.webp",
         "power": "20000",
@@ -1102,7 +1102,7 @@
         "face": {
             "front": {
                 "name": "Android 17 & Hell Fighter 17, Team of Evil",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019_SPR.webp",
@@ -1111,7 +1111,7 @@
             "back": {}
         },
         "name": "Android 17 & Hell Fighter 17, Team of Evil",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-019_SPR.webp",
         "power": "20000",
@@ -1153,7 +1153,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Infernal Creation",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-020.webp",
@@ -1162,7 +1162,7 @@
             "back": {}
         },
         "name": "Hell Fighter 17, Infernal Creation",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-020.webp",
         "power": "20000",
@@ -1201,7 +1201,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Fusion Urged",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-021.webp",
@@ -1210,7 +1210,7 @@
             "back": {}
         },
         "name": "Hell Fighter 17, Fusion Urged",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-021.webp",
         "power": "4000",
@@ -1249,7 +1249,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Ultimate Masterpiece",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022.webp",
@@ -1258,7 +1258,7 @@
             "back": {}
         },
         "name": "Super 17, Ultimate Masterpiece",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022.webp",
         "power": "30000",
@@ -1299,7 +1299,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Ultimate Masterpiece",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022_SPR.webp",
@@ -1308,7 +1308,7 @@
             "back": {}
         },
         "name": "Super 17, Ultimate Masterpiece",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-022_SPR.webp",
         "power": "30000",
@@ -1332,7 +1332,7 @@
         "limited_to": 4,
         "keywords": [
             "blocker",
-            "activate: battle",
+            "activate: Battle",
             "limit 1",
             "one",
             "barrier",
@@ -1350,7 +1350,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Absorbing Power",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-023.webp",
@@ -1359,7 +1359,7 @@
             "back": {}
         },
         "name": "Super 17, Absorbing Power",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-023.webp",
         "power": "25000",
@@ -1398,7 +1398,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Attack Commenced",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-024.webp",
@@ -1407,7 +1407,7 @@
             "back": {}
         },
         "name": "Super 17, Attack Commenced",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-024.webp",
         "power": "25000",
@@ -1446,7 +1446,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Sibling Fusion",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-025.webp",
@@ -1455,7 +1455,7 @@
             "back": {}
         },
         "name": "Super 17, Sibling Fusion",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-025.webp",
         "power": "30000",
@@ -1495,7 +1495,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Perfect Evolution",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-026.webp",
@@ -1504,7 +1504,7 @@
             "back": {}
         },
         "name": "Super 17, Perfect Evolution",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-026.webp",
         "power": "30000",
@@ -1705,7 +1705,7 @@
         "face": {
             "front": {
                 "name": "Gogeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031.webp",
@@ -1713,7 +1713,7 @@
             },
             "back": {
                 "name": "SSB Gogeta, Mighty Fusion Warrior",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031_b.webp",
@@ -1721,7 +1721,7 @@
             }
         },
         "name": "Gogeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031.webp",
         "power": "10000",
@@ -1768,7 +1768,7 @@
         "face": {
             "front": {
                 "name": "Gogeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031_PR.webp",
@@ -1776,7 +1776,7 @@
             },
             "back": {
                 "name": "SSB Gogeta, Mighty Fusion Warrior",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031_PR_b.webp",
@@ -1784,7 +1784,7 @@
             }
         },
         "name": "Gogeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-031_PR.webp",
         "power": "10000",
@@ -1829,7 +1829,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032.webp",
@@ -1837,7 +1837,7 @@
             },
             "back": {
                 "name": "SS Broly, Full-Power Explosion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_b.webp",
@@ -1845,7 +1845,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032.webp",
         "power": "10000",
@@ -1892,7 +1892,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR.webp",
@@ -1900,7 +1900,7 @@
             },
             "back": {
                 "name": "SS Broly, Full-Power Explosion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR_b.webp",
@@ -1908,7 +1908,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR.webp",
         "power": "10000",
@@ -1954,7 +1954,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR2.webp",
@@ -1962,7 +1962,7 @@
             },
             "back": {
                 "name": "SS Broly, Full-Power Explosion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR2_b.webp",
@@ -1970,7 +1970,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-032_PR2.webp",
         "power": "10000",
@@ -2016,7 +2016,7 @@
         "face": {
             "front": {
                 "name": "SS2 Cabba, Battling for Survival",
-                "type": "Z-LEADER",
+                "type": "Z-Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-033.webp",
@@ -2025,7 +2025,7 @@
             "back": {}
         },
         "name": "SS2 Cabba, Battling for Survival",
-        "type": "Z-LEADER",
+        "type": "Z-Leader",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-033.webp",
         "power": "15000",
@@ -2154,7 +2154,7 @@
         "face": {
             "front": {
                 "name": "Cheelai & Lemo, Kind Friends",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "1",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-036.webp",
@@ -2163,7 +2163,7 @@
             "back": {}
         },
         "name": "Cheelai & Lemo, Kind Friends",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-036.webp",
         "power": "5000",
@@ -2203,7 +2203,7 @@
         "face": {
             "front": {
                 "name": "Golden Frieza, Unexpected Combat",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-037.webp",
@@ -2212,7 +2212,7 @@
             "back": {}
         },
         "name": "Golden Frieza, Unexpected Combat",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-037.webp",
         "power": "20000",
@@ -2252,7 +2252,7 @@
         "face": {
             "front": {
                 "name": "Practicing Fusion",
-                "type": "Z-EXTRA",
+                "type": "Z-Extra",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-038.webp",
@@ -2261,7 +2261,7 @@
             "back": {}
         },
         "name": "Practicing Fusion",
-        "type": "Z-EXTRA",
+        "type": "Z-Extra",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-038.webp",
         "power": "",
@@ -2295,7 +2295,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Snowy Mountain Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-039.webp",
@@ -2304,7 +2304,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Snowy Mountain Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-039.webp",
         "power": "15000",
@@ -2342,7 +2342,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Long-Awaited Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-040.webp",
@@ -2351,7 +2351,7 @@
             "back": {}
         },
         "name": "Son Goku, Long-Awaited Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-040.webp",
         "power": "15000",
@@ -2388,7 +2388,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041.webp",
@@ -2397,7 +2397,7 @@
             "back": {}
         },
         "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041.webp",
         "power": "15000",
@@ -2436,7 +2436,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041_SPR.webp",
@@ -2445,7 +2445,7 @@
             "back": {}
         },
         "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-041_SPR.webp",
         "power": "15000",
@@ -2469,7 +2469,7 @@
         "limited_to": 4,
         "keywords": [
             "auto",
-            "activate: battle",
+            "activate: Battle",
             "limit 1",
             "blue_ball"
         ],
@@ -2485,7 +2485,7 @@
         "face": {
             "front": {
                 "name": "SS Vegeta, Snowy Mountain Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-042.webp",
@@ -2494,7 +2494,7 @@
             "back": {}
         },
         "name": "SS Vegeta, Snowy Mountain Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-042.webp",
         "power": "15000",
@@ -2532,7 +2532,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, First Offense",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-043.webp",
@@ -2541,7 +2541,7 @@
             "back": {}
         },
         "name": "Vegeta, First Offense",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-043.webp",
         "power": "15000",
@@ -2578,7 +2578,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Battle for Peace",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044.webp",
@@ -2587,7 +2587,7 @@
             "back": {}
         },
         "name": "SSB Gogeta, Battle for Peace",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044.webp",
         "power": "35000",
@@ -2626,7 +2626,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Battle for Peace",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044_SPR.webp",
@@ -2635,7 +2635,7 @@
             "back": {}
         },
         "name": "SSB Gogeta, Battle for Peace",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-044_SPR.webp",
         "power": "35000",
@@ -2675,7 +2675,7 @@
         "face": {
             "front": {
                 "name": "SS Gogeta, Battling a Strong Foe",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-045.webp",
@@ -2684,7 +2684,7 @@
             "back": {}
         },
         "name": "SS Gogeta, Battling a Strong Foe",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-045.webp",
         "power": "20000",
@@ -2724,7 +2724,7 @@
         "face": {
             "front": {
                 "name": "SS Gogeta, Intense Fight With a Strong Foe",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-046.webp",
@@ -2733,7 +2733,7 @@
             "back": {}
         },
         "name": "SS Gogeta, Intense Fight With a Strong Foe",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-046.webp",
         "power": "20000",
@@ -2772,7 +2772,7 @@
         "face": {
             "front": {
                 "name": "Gogeta, Fusion Warrior Debut",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-047.webp",
@@ -2781,7 +2781,7 @@
             "back": {}
         },
         "name": "Gogeta, Fusion Warrior Debut",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-047.webp",
         "power": "15000",
@@ -2819,7 +2819,7 @@
         "face": {
             "front": {
                 "name": "Gogeta, Fusion Achieved",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-048.webp",
@@ -2828,7 +2828,7 @@
             "back": {}
         },
         "name": "Gogeta, Fusion Achieved",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-048.webp",
         "power": "15000",
@@ -2868,7 +2868,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Unrestrained Destruction",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049.webp",
@@ -2877,7 +2877,7 @@
             "back": {}
         },
         "name": "SS Broly, Unrestrained Destruction",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049.webp",
         "power": "35000",
@@ -2918,7 +2918,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Unrestrained Destruction",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049_SPR.webp",
@@ -2927,7 +2927,7 @@
             "back": {}
         },
         "name": "SS Broly, Unrestrained Destruction",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-049_SPR.webp",
         "power": "35000",
@@ -2970,7 +2970,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Full Power Released",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-050.webp",
@@ -2979,7 +2979,7 @@
             "back": {}
         },
         "name": "SS Broly, Full Power Released",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-050.webp",
         "power": "35000",
@@ -3020,7 +3020,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Duel With a Fusion Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-051.webp",
@@ -3029,7 +3029,7 @@
             "back": {}
         },
         "name": "SS Broly, Duel With a Fusion Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-051.webp",
         "power": "25000",
@@ -3070,7 +3070,7 @@
         "face": {
             "front": {
                 "name": "Broly, Restrained",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-052.webp",
@@ -3079,7 +3079,7 @@
             "back": {}
         },
         "name": "Broly, Restrained",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-052.webp",
         "power": "20000",
@@ -3120,7 +3120,7 @@
         "face": {
             "front": {
                 "name": "Broly, Unchained Power",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-053.webp",
@@ -3129,7 +3129,7 @@
             "back": {}
         },
         "name": "Broly, Unchained Power",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-053.webp",
         "power": "20000",
@@ -3168,7 +3168,7 @@
         "face": {
             "front": {
                 "name": "Broly, Clashing Saiyan",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "9000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-054.webp",
@@ -3177,7 +3177,7 @@
             "back": {}
         },
         "name": "Broly, Clashing Saiyan",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-054.webp",
         "power": "9000",
@@ -3218,7 +3218,7 @@
         "face": {
             "front": {
                 "name": "Cheelai, Friend's Aid",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-055.webp",
@@ -3227,7 +3227,7 @@
             "back": {}
         },
         "name": "Cheelai, Friend's Aid",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-055.webp",
         "power": "15000",
@@ -3264,7 +3264,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Forceful Power Up",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-056.webp",
@@ -3273,7 +3273,7 @@
             "back": {}
         },
         "name": "Frieza, Forceful Power Up",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-056.webp",
         "power": "15000",
@@ -3313,7 +3313,7 @@
         "face": {
             "front": {
                 "name": "Beets, Saiyan Drawn Into Battle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-057.webp",
@@ -3322,7 +3322,7 @@
             "back": {}
         },
         "name": "Beets, Saiyan Drawn Into Battle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-057.webp",
         "power": "4000",
@@ -3359,7 +3359,7 @@
         "face": {
             "front": {
                 "name": "Ba, First Friend",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-058.webp",
@@ -3368,7 +3368,7 @@
             "back": {}
         },
         "name": "Ba, First Friend",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-058.webp",
         "power": "4000",
@@ -3446,7 +3446,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060.webp",
@@ -3454,7 +3454,7 @@
             },
             "back": {
                 "name": "Vegito, Prodigious Fusion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_b.webp",
@@ -3462,7 +3462,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060.webp",
         "power": "10000",
@@ -3509,7 +3509,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR.webp",
@@ -3517,7 +3517,7 @@
             },
             "back": {
                 "name": "Vegito, Prodigious Fusion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR_b.webp",
@@ -3525,7 +3525,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR.webp",
         "power": "10000",
@@ -3570,7 +3570,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR2.webp",
@@ -3578,7 +3578,7 @@
             },
             "back": {
                 "name": "Vegito, Prodigious Fusion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR2_b.webp",
@@ -3586,7 +3586,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR2.webp",
         "power": "10000",
@@ -3631,7 +3631,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR3.webp",
@@ -3639,7 +3639,7 @@
             },
             "back": {
                 "name": "Vegito, Prodigious Fusion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR3_b.webp",
@@ -3647,7 +3647,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR3.webp",
         "power": "10000",
@@ -3692,7 +3692,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR4.webp",
@@ -3700,7 +3700,7 @@
             },
             "back": {
                 "name": "Vegito, Prodigious Fusion",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR4_b.webp",
@@ -3708,7 +3708,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-060_PR4.webp",
         "power": "10000",
@@ -3753,7 +3753,7 @@
         "face": {
             "front": {
                 "name": "Zamasu",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061.webp",
@@ -3761,7 +3761,7 @@
             },
             "back": {
                 "name": "Fused Zamasu, Insanity From Justice",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061_b.webp",
@@ -3769,7 +3769,7 @@
             }
         },
         "name": "Zamasu",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061.webp",
         "power": "10000",
@@ -3815,7 +3815,7 @@
         "face": {
             "front": {
                 "name": "Zamasu",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061_PR.webp",
@@ -3823,7 +3823,7 @@
             },
             "back": {
                 "name": "Fused Zamasu, Insanity From Justice",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061_PR_b.webp",
@@ -3831,7 +3831,7 @@
             }
         },
         "name": "Zamasu",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-061_PR.webp",
         "power": "10000",
@@ -3874,7 +3874,7 @@
         "face": {
             "front": {
                 "name": "Great Saiyaman 2, Fresh New Hero",
-                "type": "Z-LEADER",
+                "type": "Z-Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-062.webp",
@@ -3883,7 +3883,7 @@
             "back": {}
         },
         "name": "Great Saiyaman 2, Fresh New Hero",
-        "type": "Z-LEADER",
+        "type": "Z-Leader",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-062.webp",
         "power": "10000",
@@ -3923,7 +3923,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, Surpassing Immortal Gods!",
-                "type": "Z-LEADER",
+                "type": "Z-Leader",
                 "cost": "",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-063.webp",
@@ -3932,7 +3932,7 @@
             "back": {}
         },
         "name": "SSB Vegito, Surpassing Immortal Gods!",
-        "type": "Z-LEADER",
+        "type": "Z-Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-063.webp",
         "power": "30000",
@@ -4100,7 +4100,7 @@
         "face": {
             "front": {
                 "name": "Zamasu & Goku Black, Meeting in Despair",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "1",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-066.webp",
@@ -4109,7 +4109,7 @@
             "back": {}
         },
         "name": "Zamasu & Goku Black, Meeting in Despair",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-066.webp",
         "power": "5000",
@@ -4150,7 +4150,7 @@
         "face": {
             "front": {
                 "name": "Great Saiyaman, Protector",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-067.webp",
@@ -4159,7 +4159,7 @@
             "back": {}
         },
         "name": "Great Saiyaman, Protector",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-067.webp",
         "power": "4000",
@@ -4199,7 +4199,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku, God Challenger",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-068.webp",
@@ -4208,7 +4208,7 @@
             "back": {}
         },
         "name": "SSB Son Goku, God Challenger",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-068.webp",
         "power": "15000",
@@ -4246,7 +4246,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-069.webp",
@@ -4255,7 +4255,7 @@
             "back": {}
         },
         "name": "Son Goku",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-069.webp",
         "power": "15000",
@@ -4289,7 +4289,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Potara Premonition",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-070.webp",
@@ -4298,7 +4298,7 @@
             "back": {}
         },
         "name": "Son Goku, Potara Premonition",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-070.webp",
         "power": "4000",
@@ -4334,7 +4334,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Realized Premonition of Fusion",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "19000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-071.webp",
@@ -4343,7 +4343,7 @@
             "back": {}
         },
         "name": "SSB Son Goku & SSB Vegeta, Realized Premonition of Fusion",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-071.webp",
         "power": "19000",
@@ -4382,7 +4382,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegeta, God Challenger",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-072.webp",
@@ -4391,7 +4391,7 @@
             "back": {}
         },
         "name": "SSB Vegeta, God Challenger",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-072.webp",
         "power": "15000",
@@ -4429,7 +4429,7 @@
         "face": {
             "front": {
                 "name": "Vegeta",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-073.webp",
@@ -4438,7 +4438,7 @@
             "back": {}
         },
         "name": "Vegeta",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-073.webp",
         "power": "15000",
@@ -4472,7 +4472,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, Potara Premonition",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-074.webp",
@@ -4481,7 +4481,7 @@
             "back": {}
         },
         "name": "Vegeta, Potara Premonition",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-074.webp",
         "power": "4000",
@@ -4517,7 +4517,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, All-Out Super Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "9",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075.webp",
@@ -4526,7 +4526,7 @@
             "back": {}
         },
         "name": "SSB Vegito, All-Out Super Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075.webp",
         "power": "35000",
@@ -4566,7 +4566,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, All-Out Super Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "9",
                 "power": "35000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075_SPR.webp",
@@ -4575,7 +4575,7 @@
             "back": {}
         },
         "name": "SSB Vegito, All-Out Super Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-075_SPR.webp",
         "power": "35000",
@@ -4616,7 +4616,7 @@
         "face": {
             "front": {
                 "name": "Vegito, Ultimate Unrivaled Fusion",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-076.webp",
@@ -4625,7 +4625,7 @@
             "back": {}
         },
         "name": "Vegito, Ultimate Unrivaled Fusion",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-076.webp",
         "power": "20000",
@@ -4664,7 +4664,7 @@
         "face": {
             "front": {
                 "name": "Mai, Kind Guardian",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-077.webp",
@@ -4673,7 +4673,7 @@
             "back": {}
         },
         "name": "Mai, Kind Guardian",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-077.webp",
         "power": "15000",
@@ -4710,7 +4710,7 @@
         "face": {
             "front": {
                 "name": "Gowasu, Stern Rebuke",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-078.webp",
@@ -4719,7 +4719,7 @@
             "back": {}
         },
         "name": "Gowasu, Stern Rebuke",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-078.webp",
         "power": "4000",
@@ -4756,7 +4756,7 @@
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Attack Wave",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-079.webp",
@@ -4765,7 +4765,7 @@
             "back": {}
         },
         "name": "SS Rose Goku Black, Attack Wave",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-079.webp",
         "power": "20000",
@@ -4805,7 +4805,7 @@
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Heightened Form",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-080.webp",
@@ -4814,7 +4814,7 @@
             "back": {}
         },
         "name": "SS Rose Goku Black, Heightened Form",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-080.webp",
         "power": "15000",
@@ -4855,7 +4855,7 @@
         "face": {
             "front": {
                 "name": "Goku Black, Returning to Zero",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-081.webp",
@@ -4864,7 +4864,7 @@
             "back": {}
         },
         "name": "Goku Black, Returning to Zero",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-081.webp",
         "power": "4000",
@@ -4903,7 +4903,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Total God's Rage",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-082.webp",
@@ -4912,7 +4912,7 @@
             "back": {}
         },
         "name": "Fused Zamasu, Total God's Rage",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-082.webp",
         "power": "20000",
@@ -4953,7 +4953,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Unified Ultimate God",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083.webp",
@@ -4962,7 +4962,7 @@
             "back": {}
         },
         "name": "Fused Zamasu, Unified Ultimate God",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083.webp",
         "power": "20000",
@@ -5001,7 +5001,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Unified Ultimate God",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083_SPR.webp",
@@ -5010,7 +5010,7 @@
             "back": {}
         },
         "name": "Fused Zamasu, Unified Ultimate God",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-083_SPR.webp",
         "power": "20000",
@@ -5051,7 +5051,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Ideal World Creation",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-084.webp",
@@ -5060,7 +5060,7 @@
             "back": {}
         },
         "name": "Fused Zamasu, Ideal World Creation",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-084.webp",
         "power": "20000",
@@ -5098,7 +5098,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Cleansing Despair",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-085.webp",
@@ -5107,7 +5107,7 @@
             "back": {}
         },
         "name": "Fused Zamasu, Cleansing Despair",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-085.webp",
         "power": "20000",
@@ -5145,7 +5145,7 @@
         "face": {
             "front": {
                 "name": "Zamasu, Doubt in Man and God",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-086.webp",
@@ -5154,7 +5154,7 @@
             "back": {}
         },
         "name": "Zamasu, Doubt in Man and God",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-086.webp",
         "power": "15000",
@@ -5194,7 +5194,7 @@
         "face": {
             "front": {
                 "name": "Zamasu, Returning to Zero",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-087.webp",
@@ -5203,7 +5203,7 @@
             "back": {}
         },
         "name": "Zamasu, Returning to Zero",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-087.webp",
         "power": "4000",
@@ -5323,7 +5323,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090.webp",
@@ -5331,7 +5331,7 @@
             },
             "back": {
                 "name": "SS Son Goku & SS Son Gohan, Battling Father & Son",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090_b.webp",
@@ -5339,7 +5339,7 @@
             }
         },
         "name": "SS Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090.webp",
         "power": "10000",
@@ -5386,7 +5386,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090_PR.webp",
@@ -5394,7 +5394,7 @@
             },
             "back": {
                 "name": "SS Son Goku & SS Son Gohan, Battling Father & Son",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090_PR_b.webp",
@@ -5402,7 +5402,7 @@
             }
         },
         "name": "SS Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-090_PR.webp",
         "power": "10000",
@@ -5449,7 +5449,7 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091.webp",
@@ -5457,7 +5457,7 @@
             },
             "back": {
                 "name": "Cell, Fear Itself",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091_b.webp",
@@ -5465,7 +5465,7 @@
             }
         },
         "name": "Cell",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091.webp",
         "power": "10000",
@@ -5511,7 +5511,7 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091_PR.webp",
@@ -5519,7 +5519,7 @@
             },
             "back": {
                 "name": "Cell, Fear Itself",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091_PR_b.webp",
@@ -5527,7 +5527,7 @@
             }
         },
         "name": "Cell",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-091_PR.webp",
         "power": "10000",
@@ -5572,7 +5572,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Final Destination",
-                "type": "Z-LEADER",
+                "type": "Z-Leader",
                 "cost": "",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-092.webp",
@@ -5581,7 +5581,7 @@
             "back": {}
         },
         "name": "Son Goku, Final Destination",
-        "type": "Z-LEADER",
+        "type": "Z-Leader",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-092.webp",
         "power": "20000",
@@ -5708,7 +5708,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Destiny Entrusted",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-095.webp",
@@ -5717,7 +5717,7 @@
             "back": {}
         },
         "name": "SS Son Gohan, Destiny Entrusted",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-095.webp",
         "power": "20000",
@@ -5757,7 +5757,7 @@
         "face": {
             "front": {
                 "name": "Cell, All-Encompassing Terror",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "3",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-096.webp",
@@ -5766,7 +5766,7 @@
             "back": {}
         },
         "name": "Cell, All-Encompassing Terror",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-096.webp",
         "power": "25000",
@@ -5808,7 +5808,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Entrusting Father",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-097.webp",
@@ -5817,7 +5817,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Entrusting Father",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-097.webp",
         "power": "15000",
@@ -5856,7 +5856,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Entrusting Destiny",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-098.webp",
@@ -5865,7 +5865,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Entrusting Destiny",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-098.webp",
         "power": "15000",
@@ -5904,7 +5904,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, to the Cell Games",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-099.webp",
@@ -5913,7 +5913,7 @@
             "back": {}
         },
         "name": "Son Goku, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-099.webp",
         "power": "4000",
@@ -5952,7 +5952,7 @@
         "face": {
             "front": {
                 "name": "SS2 Son Gohan, Rage Triggered",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-100.webp",
@@ -5961,7 +5961,7 @@
             "back": {}
         },
         "name": "SS2 Son Gohan, Rage Triggered",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-100.webp",
         "power": "30000",
@@ -6001,7 +6001,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Youth Defying Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101.webp",
@@ -6010,7 +6010,7 @@
             "back": {}
         },
         "name": "SS Son Gohan, Youth Defying Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101.webp",
         "power": "20000",
@@ -6051,7 +6051,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Youth Defying Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101_SPR.webp",
@@ -6060,7 +6060,7 @@
             "back": {}
         },
         "name": "SS Son Gohan, Youth Defying Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-101_SPR.webp",
         "power": "20000",
@@ -6102,7 +6102,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Fighting Against Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-102.webp",
@@ -6111,7 +6111,7 @@
             "back": {}
         },
         "name": "SS Son Gohan, Fighting Against Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-102.webp",
         "power": "20000",
@@ -6151,7 +6151,7 @@
         "face": {
             "front": {
                 "name": "Son Gohan, Preparing for the Cell Games",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-103.webp",
@@ -6160,7 +6160,7 @@
             "back": {}
         },
         "name": "Son Gohan, Preparing for the Cell Games",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-103.webp",
         "power": "4000",
@@ -6197,7 +6197,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, to the Cell Games",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-104.webp",
@@ -6206,7 +6206,7 @@
             "back": {}
         },
         "name": "Vegeta, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-104.webp",
         "power": "4000",
@@ -6244,7 +6244,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Watcher From the Future",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-105.webp",
@@ -6253,7 +6253,7 @@
             "back": {}
         },
         "name": "Trunks, Watcher From the Future",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-105.webp",
         "power": "4000",
@@ -6291,7 +6291,7 @@
         "face": {
             "front": {
                 "name": "Piccolo, to the Cell Games",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-106.webp",
@@ -6300,7 +6300,7 @@
             "back": {}
         },
         "name": "Piccolo, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-106.webp",
         "power": "4000",
@@ -6339,7 +6339,7 @@
         "face": {
             "front": {
                 "name": "Hercule",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-107.webp",
@@ -6348,7 +6348,7 @@
             "back": {}
         },
         "name": "Hercule",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-107.webp",
         "power": "30000",
@@ -6382,7 +6382,7 @@
         "face": {
             "front": {
                 "name": "Android 16, Trigger to Awakening",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-108.webp",
@@ -6391,7 +6391,7 @@
             "back": {}
         },
         "name": "Android 16, Trigger to Awakening",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-108.webp",
         "power": "15000",
@@ -6428,7 +6428,7 @@
         "face": {
             "front": {
                 "name": "Cell, Complete Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109.webp",
@@ -6437,7 +6437,7 @@
             "back": {}
         },
         "name": "Cell, Complete Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109.webp",
         "power": "25000",
@@ -6479,7 +6479,7 @@
         "face": {
             "front": {
                 "name": "Cell, Complete Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109_SPR.webp",
@@ -6488,7 +6488,7 @@
             "back": {}
         },
         "name": "Cell, Complete Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-109_SPR.webp",
         "power": "25000",
@@ -6531,7 +6531,7 @@
         "face": {
             "front": {
                 "name": "Cell, Maximum Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-110.webp",
@@ -6540,7 +6540,7 @@
             "back": {}
         },
         "name": "Cell, Maximum Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-110.webp",
         "power": "25000",
@@ -6582,7 +6582,7 @@
         "face": {
             "front": {
                 "name": "Cell, Explosive Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111.webp",
@@ -6591,7 +6591,7 @@
             "back": {}
         },
         "name": "Cell, Explosive Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111.webp",
         "power": "20000",
@@ -6633,7 +6633,7 @@
         "face": {
             "front": {
                 "name": "Cell, Explosive Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111_SPR.webp",
@@ -6642,7 +6642,7 @@
             "back": {}
         },
         "name": "Cell, Explosive Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-111_SPR.webp",
         "power": "20000",
@@ -6669,7 +6669,7 @@
             "activate main",
             "once per turn",
             "barrier",
-            "activate: battle",
+            "activate: Battle",
             "limit 1",
             "yellow_ball"
         ],
@@ -6685,7 +6685,7 @@
         "face": {
             "front": {
                 "name": "Cell, Evolved Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-112.webp",
@@ -6694,7 +6694,7 @@
             "back": {}
         },
         "name": "Cell, Evolved Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-112.webp",
         "power": "20000",
@@ -6733,7 +6733,7 @@
         "face": {
             "front": {
                 "name": "Cell, Writhing Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-113.webp",
@@ -6742,7 +6742,7 @@
             "back": {}
         },
         "name": "Cell, Writhing Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-113.webp",
         "power": "15000",
@@ -6781,7 +6781,7 @@
         "face": {
             "front": {
                 "name": "Cell, Absorption Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-114.webp",
@@ -6790,7 +6790,7 @@
             "back": {}
         },
         "name": "Cell, Absorption Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-114.webp",
         "power": "15000",
@@ -6831,7 +6831,7 @@
         "face": {
             "front": {
                 "name": "Cell, Growing Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-115.webp",
@@ -6840,7 +6840,7 @@
             "back": {}
         },
         "name": "Cell, Growing Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-115.webp",
         "power": "4000",
@@ -6878,7 +6878,7 @@
         "face": {
             "front": {
                 "name": "Cell, Beginnings of Terror",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-116.webp",
@@ -6887,7 +6887,7 @@
             "back": {}
         },
         "name": "Cell, Beginnings of Terror",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-116.webp",
         "power": "4000",
@@ -6925,7 +6925,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Lineage to the Pinnacle",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-117.webp",
@@ -6934,7 +6934,7 @@
             "back": {}
         },
         "name": "Son Goku, Lineage to the Pinnacle",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-117.webp",
         "power": "20000",
@@ -7058,7 +7058,7 @@
         "face": {
             "front": {
                 "name": "Cooler",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120.webp",
@@ -7066,7 +7066,7 @@
             },
             "back": {
                 "name": "Golden Cooler, Dimension-Transcending Growth",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120_b.webp",
@@ -7074,7 +7074,7 @@
             }
         },
         "name": "Cooler",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120.webp",
         "power": "10000",
@@ -7121,7 +7121,7 @@
         "face": {
             "front": {
                 "name": "Cooler",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "10000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120_PR.webp",
@@ -7129,7 +7129,7 @@
             },
             "back": {
                 "name": "Golden Cooler, Dimension-Transcending Growth",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": "",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120_PR_b.webp",
@@ -7137,7 +7137,7 @@
             }
         },
         "name": "Cooler",
-        "type": "LEADER",
+        "type": "Leader",
         "rarity": "Special Leader Rare[SLR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-120_PR.webp",
         "power": "10000",
@@ -7226,7 +7226,7 @@
         "face": {
             "front": {
                 "name": "Cumber, Banished Evil",
-                "type": "Z-BATTLE",
+                "type": "Z-Battle",
                 "cost": "1",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-122.webp",
@@ -7235,7 +7235,7 @@
             "back": {}
         },
         "name": "Cumber, Banished Evil",
-        "type": "Z-BATTLE",
+        "type": "Z-Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-122.webp",
         "power": "15000",
@@ -7275,7 +7275,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Confined Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-123.webp",
@@ -7284,7 +7284,7 @@
             "back": {}
         },
         "name": "SS4 Son Goku, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-123.webp",
         "power": "20000",
@@ -7323,7 +7323,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-124.webp",
@@ -7332,7 +7332,7 @@
             "back": {}
         },
         "name": "SSB Vegito",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-124.webp",
         "power": "30000",
@@ -7367,7 +7367,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Unanticipated Cooperation",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-125.webp",
@@ -7376,7 +7376,7 @@
             "back": {}
         },
         "name": "Trunks, Unanticipated Cooperation",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-125.webp",
         "power": "4000",
@@ -7414,7 +7414,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Escape",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "1",
                 "power": "4000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-126.webp",
@@ -7423,7 +7423,7 @@
             "back": {}
         },
         "name": "Trunks, Escape",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-126.webp",
         "power": "4000",
@@ -7461,7 +7461,7 @@
         "face": {
             "front": {
                 "name": "Golden Cooler, Golden Fighting Spirit",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127.webp",
@@ -7470,7 +7470,7 @@
             "back": {}
         },
         "name": "Golden Cooler, Golden Fighting Spirit",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127.webp",
         "power": "30000",
@@ -7511,7 +7511,7 @@
         "face": {
             "front": {
                 "name": "Golden Cooler, Golden Fighting Spirit",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "30000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127_SPR.webp",
@@ -7520,7 +7520,7 @@
             "back": {}
         },
         "name": "Golden Cooler, Golden Fighting Spirit",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-127_SPR.webp",
         "power": "30000",
@@ -7562,7 +7562,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Strongest Pride",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128.webp",
@@ -7571,7 +7571,7 @@
             "back": {}
         },
         "name": "Cooler, Strongest Pride",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128.webp",
         "power": "25000",
@@ -7610,7 +7610,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Strongest Pride",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128_SPR.webp",
@@ -7619,7 +7619,7 @@
             "back": {}
         },
         "name": "Cooler, Strongest Pride",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-128_SPR.webp",
         "power": "25000",
@@ -7659,7 +7659,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Confined Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-129.webp",
@@ -7668,7 +7668,7 @@
             "back": {}
         },
         "name": "Cooler, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-129.webp",
         "power": "15000",
@@ -7708,7 +7708,7 @@
         "face": {
             "front": {
                 "name": "Cumber, Imposing Villainy",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "2",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-130.webp",
@@ -7717,7 +7717,7 @@
             "back": {}
         },
         "name": "Cumber, Imposing Villainy",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-130.webp",
         "power": "15000",
@@ -7755,7 +7755,7 @@
         "face": {
             "front": {
                 "name": "Boujack, Confined Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-131.webp",
@@ -7764,7 +7764,7 @@
             "back": {}
         },
         "name": "Boujack, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-131.webp",
         "power": "15000",
@@ -7804,7 +7804,7 @@
         "face": {
             "front": {
                 "name": "Hatchhyack, Confined Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-132.webp",
@@ -7813,7 +7813,7 @@
             "back": {}
         },
         "name": "Hatchhyack, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-132.webp",
         "power": "15000",
@@ -7853,7 +7853,7 @@
         "face": {
             "front": {
                 "name": "Majin Ozotto, Confined Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-133.webp",
@@ -7862,7 +7862,7 @@
             "back": {}
         },
         "name": "Majin Ozotto, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-133.webp",
         "power": "20000",
@@ -7989,7 +7989,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Rapid Attack",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "6",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-136.webp",
@@ -7998,7 +7998,7 @@
             "back": {}
         },
         "name": "Super 17, Rapid Attack",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-136.webp",
         "power": "20000",
@@ -8041,7 +8041,7 @@
         "face": {
             "front": {
                 "name": "SS2 Cabba, Sudden Growth Anew",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "7",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-137.webp",
@@ -8050,7 +8050,7 @@
             "back": {}
         },
         "name": "SS2 Cabba, Sudden Growth Anew",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-137.webp",
         "power": "25000",
@@ -8092,7 +8092,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "45000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138.webp",
@@ -8101,7 +8101,7 @@
             "back": {}
         },
         "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Secret Rare[SCR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138.webp",
         "power": "45000",
@@ -8144,7 +8144,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "8",
                 "power": "45000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138_PR.webp",
@@ -8153,7 +8153,7 @@
             "back": {}
         },
         "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "God Rare[GDR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-138_PR.webp",
         "power": "45000",
@@ -8182,7 +8182,7 @@
             "barrier",
             "triple attack",
             "blocker",
-            "activate: main/battle",
+            "activate: main/Battle",
             "once per turn"
         ],
         "z_energy_cost": "",
@@ -8197,7 +8197,7 @@
         "face": {
             "front": {
                 "name": "Metamorphic Android Cell",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "10",
                 "power": "40000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-139.webp",
@@ -8206,7 +8206,7 @@
             "back": {}
         },
         "name": "Metamorphic Android Cell",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Secret Rare[SCR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-139.webp",
         "power": "40000",
@@ -8246,7 +8246,7 @@
         "face": {
             "front": {
                 "name": "Perfected Ultra Instinct Son Goku, Transcendence",
-                "type": "BATTLE",
+                "type": "Battle",
                 "cost": "10",
                 "power": "45000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-140.webp",
@@ -8255,7 +8255,7 @@
             "back": {}
         },
         "name": "Perfected Ultra Instinct Son Goku, Transcendence",
-        "type": "BATTLE",
+        "type": "Battle",
         "rarity": "Secret Rare[SCR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-140.webp",
         "power": "45000",
@@ -8293,3 +8293,4 @@
         "back_traits": null
     }
 }
+
