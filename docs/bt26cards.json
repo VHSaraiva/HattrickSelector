@@ -307,7 +307,7 @@
         "face": {
             "front": {
                 "name": "Piccolo, Escape From Hell",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-004.webp",
@@ -316,7 +316,7 @@
             "back": {}
         },
         "name": "Piccolo, Escape From Hell",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-004.webp",
         "power": "5000",
@@ -348,7 +348,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Return of Despair",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "3",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-005.webp",
@@ -357,7 +357,7 @@
             "back": {}
         },
         "name": "Hell Fighter 17, Return of Despair",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-005.webp",
         "power": "15000",
@@ -396,7 +396,7 @@
         "face": {
             "front": {
                 "name": "Sibling Confrontation",
-                "type": "Z-Extra",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-006.webp",
@@ -405,7 +405,7 @@
             "back": {}
         },
         "name": "Sibling Confrontation",
-        "type": "Z-Extra",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-006.webp",
         "power": "",
@@ -437,7 +437,7 @@
         "face": {
             "front": {
                 "name": "Power-Infused Shocking Death Ball",
-                "type": "Z-Extra",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-007.webp",
@@ -446,7 +446,7 @@
             "back": {}
         },
         "name": "Power-Infused Shocking Death Ball",
-        "type": "Z-Extra",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-007.webp",
         "power": "",
@@ -2068,7 +2068,7 @@
         "face": {
             "front": {
                 "name": "Whis, Waiting Patiently",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-034.webp",
@@ -2077,7 +2077,7 @@
             "back": {}
         },
         "name": "Whis, Waiting Patiently",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-034.webp",
         "power": "20000",
@@ -2110,7 +2110,7 @@
         "face": {
             "front": {
                 "name": "Paragus, Cunning Parent",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-035.webp",
@@ -2119,7 +2119,7 @@
             "back": {}
         },
         "name": "Paragus, Cunning Parent",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-035.webp",
         "power": "5000",
@@ -2154,7 +2154,7 @@
         "face": {
             "front": {
                 "name": "Cheelai & Lemo, Kind Friends",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-036.webp",
@@ -2163,7 +2163,7 @@
             "back": {}
         },
         "name": "Cheelai & Lemo, Kind Friends",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-036.webp",
         "power": "5000",
@@ -2203,7 +2203,7 @@
         "face": {
             "front": {
                 "name": "Golden Frieza, Unexpected Combat",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "4",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-037.webp",
@@ -2212,7 +2212,7 @@
             "back": {}
         },
         "name": "Golden Frieza, Unexpected Combat",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-037.webp",
         "power": "20000",
@@ -2252,7 +2252,7 @@
         "face": {
             "front": {
                 "name": "Practicing Fusion",
-                "type": "Z-Extra",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-038.webp",
@@ -2261,7 +2261,7 @@
             "back": {}
         },
         "name": "Practicing Fusion",
-        "type": "Z-Extra",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-038.webp",
         "power": "",
@@ -3972,7 +3972,7 @@
         "face": {
             "front": {
                 "name": "SS4 Vegito, Attaining Greater Power",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064.webp",
@@ -3981,7 +3981,7 @@
             "back": {}
         },
         "name": "SS4 Vegito, Attaining Greater Power",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Super Rare[SR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064.webp",
         "power": "15000",
@@ -4014,7 +4014,7 @@
         "face": {
             "front": {
                 "name": "SS4 Vegito, Attaining Greater Power",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064_SPR.webp",
@@ -4023,7 +4023,7 @@
             "back": {}
         },
         "name": "SS4 Vegito, Attaining Greater Power",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Special Rare[SPR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-064_SPR.webp",
         "power": "15000",
@@ -4056,7 +4056,7 @@
         "face": {
             "front": {
                 "name": "Gowasu, Instructor",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-065.webp",
@@ -4065,7 +4065,7 @@
             "back": {}
         },
         "name": "Gowasu, Instructor",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-065.webp",
         "power": "5000",
@@ -4100,7 +4100,7 @@
         "face": {
             "front": {
                 "name": "Zamasu & Goku Black, Meeting in Despair",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-066.webp",
@@ -4109,7 +4109,7 @@
             "back": {}
         },
         "name": "Zamasu & Goku Black, Meeting in Despair",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-066.webp",
         "power": "5000",
@@ -5622,7 +5622,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Protective Father",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "5000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-093.webp",
@@ -5631,7 +5631,7 @@
             "back": {}
         },
         "name": "SS Son Goku, Protective Father",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Uncommon[UC]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-093.webp",
         "power": "5000",
@@ -5666,7 +5666,7 @@
         "face": {
             "front": {
                 "name": "Cell Games Arena, Greatest Stage",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-094.webp",
@@ -5675,7 +5675,7 @@
             "back": {}
         },
         "name": "Cell Games Arena, Greatest Stage",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Common[C]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-094.webp",
         "power": "15000",
@@ -5708,7 +5708,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Destiny Entrusted",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "5",
                 "power": "20000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-095.webp",
@@ -5717,7 +5717,7 @@
             "back": {}
         },
         "name": "SS Son Gohan, Destiny Entrusted",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-095.webp",
         "power": "20000",
@@ -5757,7 +5757,7 @@
         "face": {
             "front": {
                 "name": "Cell, All-Encompassing Terror",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "3",
                 "power": "25000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-096.webp",
@@ -5766,7 +5766,7 @@
             "back": {}
         },
         "name": "Cell, All-Encompassing Terror",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-096.webp",
         "power": "25000",
@@ -7184,7 +7184,7 @@
         "face": {
             "front": {
                 "name": "Fu, Schemer Behind Everything",
-                "type": "Z-UNISON",
+                "type": "Z-Deck",
                 "cost": "X",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-121.webp",
@@ -7193,7 +7193,7 @@
             "back": {}
         },
         "name": "Fu, Schemer Behind Everything",
-        "type": "Z-UNISON",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-121.webp",
         "power": "15000",
@@ -7226,7 +7226,7 @@
         "face": {
             "front": {
                 "name": "Cumber, Banished Evil",
-                "type": "Z-Battle",
+                "type": "Z-Deck",
                 "cost": "1",
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-122.webp",
@@ -7235,7 +7235,7 @@
             "back": {}
         },
         "name": "Cumber, Banished Evil",
-        "type": "Z-Battle",
+        "type": "Z-Deck",
         "rarity": "Rare[R]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT26-122.webp",
         "power": "15000",
@@ -8293,4 +8293,5 @@
         "back_traits": null
     }
 }
+
 
