@@ -5,7 +5,7 @@
     "backgrounds": [],
     "decksUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/starterDecks.json"
   },
-  "customHelp": "\"How to play DB Fusion World:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
+  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vhsaraiva.github.io/HattrickSelector/docs/bt26cards.json",
@@ -89,6 +89,48 @@
         0
       ],
       "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "1-cnt",
+          "name": "1 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/1_token.png"
+        },
+        {
+          "id": "2-cnt",
+          "name": "2 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/2_token.png"
+        },
+        {
+          "id": "3-cnt",
+          "name": "3 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/3_token.png"
+        },
+        {
+          "id": "4-cnt",
+          "name": "4 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/4_token.png"
+        },
+        {
+          "id": "5-cnt",
+          "name": "5 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/5_token.png"
+        },
+        {
+          "id": "6-cnt",
+          "name": "6 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/6_token.png"
+        },
+        {
+          "id": "7-cnt",
+          "name": "7 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/7_token.png"
+        },
+        {
+          "id": "once",
+          "name": "Once per turn",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/barrier_token.png"
+        }
+      ],
       "sections": {
         "customSections": [
           "Z-Deck",
