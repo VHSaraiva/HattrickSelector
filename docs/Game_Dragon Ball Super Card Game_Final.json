@@ -146,8 +146,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Warp",
-          "Drop"
+          "Warp"
         ],
         "layout": {
           "direction": "row",
@@ -225,10 +224,6 @@
               "content": [
                 {
                   "section": "Warp",
-                  "style": false
-                },
-                {
-                  "section": "Drop",
                   "style": false
                 }
               ]
@@ -462,22 +457,6 @@
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-            "Drop": {
-            "title": "Drop",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Drop Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
